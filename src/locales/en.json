@@ -14,7 +14,7 @@
   "common": {
     "home": "Home",
     "more": "More",
-    "playNow": "Play on Steam",
+    "playNow": "Play on Roblox",
     "switchLanguage": "Switch Language",
     "switchTheme": "Switch Theme",
     "lightMode": "Light Mode",
@@ -52,696 +52,601 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "Blue Lock Skibidi Gameplay",
+    "description": "Compete in chaotic anime-inspired Roblox soccer matches, roll for powerful characters, chain character abilities and chemical reactions, and master shooting, dribbling, goalkeeping and awakening skills."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "title": "Blue Lock Skibidi",
+    "titleHighlight": "Guides",
+    "subtitle": "Everything you need to dominate Blue Lock Skibidi — working codes, character rankings, controls, goalkeeper skills, team combos and the latest updates.",
     "cards": [
       {
-        "icon": "BookOpen",
+        "icon": "Gift",
+        "title": "Codes",
+        "description": "Working and expired Blue Lock Skibidi codes, Cash rewards and redemption steps"
+      },
+      {
+        "icon": "GraduationCap",
         "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
+        "description": "Core Blue Lock Skibidi controls, early Cash spending and first matches"
       },
       {
-        "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
+        "icon": "Trophy",
+        "title": "Tier List",
+        "description": "Blue Lock Skibidi character rankings by scoring, mobility, defense and value"
       },
       {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
+        "icon": "Users",
+        "title": "Characters",
+        "description": "Every Blue Lock Skibidi character, rarity, role and how to roll and store them"
       },
       {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
+        "icon": "Keyboard",
+        "title": "Controls",
+        "description": "Full Blue Lock Skibidi desktop keybinds for shooting, sliding, dribbling and diving"
       },
       {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
+        "icon": "Goal",
+        "title": "Goalkeeper Guide",
+        "description": "Positioning, dive timing and distribution tips for Blue Lock Skibidi keepers"
       },
       {
-        "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
+        "icon": "FlaskConical",
+        "title": "Combos",
+        "description": "Team chemical reactions and coordinated Blue Lock Skibidi combo setups"
       },
       {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
-      },
-      {
-        "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
-      },
-      {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
-      },
-      {
-        "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
-      },
-      {
-        "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "icon": "Newspaper",
+        "title": "Updates",
+        "description": "Latest Blue Lock Skibidi patches, new characters, codes and balance changes"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
-      "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
-      "steps": [
-        {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
-        },
-        {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
-        },
-        {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
-        },
-        {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
-        }
-      ],
-      "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
-      ]
-    },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
-      "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
-      "cards": [
-        {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
-        },
-        {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
-        },
-        {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
-        },
-        {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
-        }
-      ],
-      "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
-      ]
-    },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
+    "blueLockSkibidiCodes": {
+      "eyebrow": "Free Cash",
+      "title": "Blue Lock Skibidi Codes",
+      "subtitle": "Redeem the latest codes for free Cash used on character rolls, emotes and MVP animations.",
+      "intro": "Open the Menu at the bottom of the screen, select Codes, enter a code exactly as written, and press Redeem. Rejoin the game when a newly released code does not work, because your current server may be running an older update.",
       "items": [
         {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
+          "kind": "code",
+          "code": "SHIDOU",
+          "reward": "Cash",
+          "status": "Working",
+          "update": "Shidou and Ichigo Update"
         },
         {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
+          "kind": "code",
+          "code": "DEMON",
+          "reward": "Cash",
+          "status": "Working",
+          "update": "Shidou and Ichigo Update"
         },
         {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
+          "kind": "code",
+          "code": "BANKAI",
+          "reward": "Cash",
+          "status": "Working",
+          "update": "Shidou and Ichigo Update"
         },
         {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
+          "kind": "code",
+          "code": "SorryForBugs",
+          "reward": "Cash",
+          "status": "Expired",
+          "update": "Previous Update"
         },
         {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
+          "kind": "code",
+          "code": "3MILVISITS",
+          "reward": "Cash",
+          "status": "Expired",
+          "update": "Visit Milestone"
         },
         {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
+          "kind": "code",
+          "code": "Chigiri",
+          "reward": "Cash",
+          "status": "Expired",
+          "update": "Chigiri Update"
         },
         {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
-        }
-      ]
-    },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
-      "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
-      "solutions": [
-        {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
-        },
-        {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
-        },
-        {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
-        },
-        {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
+          "kind": "code",
+          "code": "SorryForUnfinishedUpd",
+          "reward": "Cash",
+          "status": "Expired",
+          "update": "Previous Update"
         }
       ],
-      "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
+      "redemption": {
+        "title": "How to Redeem Blue Lock Skibidi Codes",
+        "steps": [
+          "Launch Blue Lock: Skibidi on Roblox.",
+          "Select Menu at the bottom of the screen.",
+          "Open the Codes menu.",
+          "Paste a working code into the code box.",
+          "Press Redeem to claim the Cash."
+        ]
+      },
+      "troubleshooting": {
+        "title": "Why a Blue Lock Skibidi Code May Fail",
+        "checks": [
+          "The code was entered with incorrect capitalization or spacing.",
+          "The code expired after a game update.",
+          "The current server has not received the latest update.",
+          "The code was already redeemed on the same account."
+        ]
+      },
+      "tips": [
+        "Copy codes exactly, including capital letters, before pasting them into the Codes box.",
+        "Rejoin a fresh server when a new code returns no reward, since older servers may not have the update yet.",
+        "Spend code Cash on character rolls before emotes and MVP animations to grow your options first.",
+        "Check back after every update, because new Blue Lock Skibidi codes usually drop alongside new characters."
       ]
     },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
-      "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
-      "cards": [
-        {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
-        },
-        {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
-        },
-        {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
-        },
-        {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
-        }
-      ],
-      "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
-        },
-        {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
-        },
-        {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
-        }
-      ]
-    },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
-      "creatures": [
-        {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
-        },
-        {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
-        },
-        {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
-        },
-        {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
-        },
-        {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
-        },
-        {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
-        }
-      ]
-    },
-    "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
-      "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
+    "blueLockSkibidiBeginnerGuide": {
+      "eyebrow": "Getting Started",
+      "title": "Blue Lock Skibidi Beginner Guide",
+      "subtitle": "Learn the main controls, finish matches for Cash, and build a useful character collection without wasting early rewards.",
+      "intro": "Blue Lock: Skibidi is a Roblox soccer game built around character abilities, dribbling, shooting, defending and match rewards. Learn the basic controls before relying on special moves, then save Cash for character rolls that improve your available playstyles.",
       "items": [
         {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
+          "step": 1,
+          "title": "Learn the Core Controls",
+          "description": "Practice movement, sliding, dribbling, passing requests and shooting before using character abilities.",
+          "controls": [
+            { "input": "E", "action": "Slide" },
+            { "input": "Q", "action": "Dribble or goalkeeper dive" },
+            { "input": "R", "action": "Request the ball" },
+            { "input": "Left Click", "action": "Shoot" },
+            { "input": "1–5", "action": "Use character moves" }
+          ]
         },
         {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
+          "step": 2,
+          "title": "Play Your Position",
+          "description": "Stay forward when using a scoring character, support possession with passing characters, or protect the goal when playing as a goalkeeper."
         },
         {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
+          "step": 3,
+          "title": "Keep Possession",
+          "description": "Use Q to dribble past pressure instead of shooting immediately. Pass or request the ball when a teammate has a clearer route to the goal."
         },
         {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
+          "step": 4,
+          "title": "Create a Shooting Window",
+          "description": "Move away from defenders, aim toward an open part of the goal, and use Left Click or a shooting ability after creating space."
         },
         {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
+          "step": 5,
+          "title": "Use Slides Carefully",
+          "description": "Press E to challenge an opponent carrying the ball. Avoid sliding too early, because a missed challenge leaves open space behind you."
         },
         {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
-        }
-      ],
-      "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
-      ]
-    },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
-      "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
-      "sections": [
-        {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
+          "step": 6,
+          "title": "Finish the Match",
+          "description": "Match Cash is awarded after the game ends, so remain until the result screen instead of leaving early."
         },
         {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
+          "step": 7,
+          "title": "Spend Early Cash on Characters",
+          "description": "Use free code rewards and match Cash to roll for additional characters. Build a small collection before spending heavily on emotes or MVP animations."
         },
         {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
-        },
-        {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
-      ]
-    },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
-      "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
-      "priorities": [
-        {
-          "name": "Personal Qualia",
-          "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
-        },
-        {
-          "name": "Frost Pick",
-          "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
-        },
-        {
-          "name": "Cache Cube",
-          "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
-        },
-        {
-          "name": "Hookshot",
-          "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
-        },
-        {
-          "name": "Glider Glove",
-          "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
-        },
-        {
-          "name": "Projectile Wand or Bombs",
-          "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
+          "step": 8,
+          "title": "Store Different Roles",
+          "description": "Keep at least one scorer, one possession-focused character and one defensive or goalkeeper option, so you can adapt to different teams."
         }
       ]
     },
-    "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
-      "groups": [
+    "blueLockSkibidiCharacterTierList": {
+      "eyebrow": "Character Rankings",
+      "title": "Blue Lock Skibidi Character Tier List",
+      "subtitle": "Compare the core roster by scoring ability, movement, defensive value, move quality and ease of use.",
+      "intro": "S-tier characters provide the strongest overall match impact, while A-tier options remain excellent for most teams. Lower-ranked characters can still perform well when their passing, goalkeeper or starter-friendly strengths match the player's role.",
+      "items": [
         {
-          "name": "Exploration",
-          "achievements": [
+          "tier": "S",
+          "label": "Best Overall",
+          "characters": [
             {
-              "title": "Angel α",
-              "description": "Enter a qualia."
+              "name": "Ronaldo",
+              "role": "Elite Scorer",
+              "strength": "Combines powerful finishing with strong offensive pressure and match-winning scoring potential."
             },
             {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
-            },
-            {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
-            },
-            {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
+              "name": "Don Lorenzo",
+              "role": "Defensive Specialist",
+              "strength": "Provides elite defensive control while still creating opportunities to transition into an attack."
             }
           ]
         },
         {
-          "name": "Crafting and Summoning",
-          "achievements": [
+          "tier": "A",
+          "label": "Strong Meta Picks",
+          "characters": [
             {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
+              "name": "Kaiser",
+              "role": "Precision Striker",
+              "strength": "A reliable finishing character built around dangerous shooting opportunities."
             },
             {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
+              "name": "Luffy",
+              "role": "Mobile Attacker",
+              "strength": "Uses unusual movement and offensive abilities to disrupt defenders and reach shooting positions."
             },
             {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
-            },
-            {
-              "title": "Archangel β",
-              "description": "Summon your faith."
+              "name": "Rin",
+              "role": "Complete Forward",
+              "strength": "Offers a balanced combination of shooting power, control and offensive versatility."
             }
           ]
         },
         {
-          "name": "Mobility and Utility",
-          "achievements": [
+          "tier": "B",
+          "label": "Solid Specialists",
+          "characters": [
             {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
+              "name": "Sae",
+              "role": "Playmaker",
+              "strength": "Excels at controlling possession and creating scoring chances through passing."
             },
             {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
-            },
-            {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
+              "name": "Reo",
+              "role": "Flexible Support",
+              "strength": "A versatile option that contributes through ball movement, support play and adaptable abilities."
             }
           ]
         },
         {
-          "name": "Combat and Creatures",
-          "achievements": [
+          "tier": "C",
+          "label": "Starter and Situational Picks",
+          "characters": [
             {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
+              "name": "Gagamaru",
+              "role": "Goalkeeper",
+              "strength": "Most useful when protecting the goal and using goalkeeper dives rather than leading the attack."
             },
             {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
-            },
-            {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
-          ]
-        },
-        {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
+              "name": "Isagi",
+              "role": "Starter Forward",
+              "strength": "A straightforward beginner option for learning positioning, shooting and basic ability timing."
             }
           ]
         }
       ]
     },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
-      "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
-      "faqs": [
+    "blueLockSkibidiCharactersAndRarities": {
+      "eyebrow": "Character Collection",
+      "title": "Blue Lock Skibidi Characters and Rarities",
+      "subtitle": "Explore the standard roster, rare attackers, legendary characters, secret crossover styles and major update additions.",
+      "intro": "Characters are obtained through the Shop and can be equipped from Storage after they are unlocked. Each character supplies a different set of moves, making it useful to keep scoring, passing, defensive and goalkeeper options.",
+      "items": [
         {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
+          "name": "Isagi",
+          "rarity": "Common",
+          "role": "Starter Forward",
+          "signatureFocus": "Positioning and direct shooting",
+          "bestFor": "Learning basic attacking controls"
         },
         {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
+          "name": "Gagamaru",
+          "rarity": "Common",
+          "role": "Goalkeeper",
+          "signatureFocus": "Goal protection and diving saves",
+          "bestFor": "Players who prefer defending the goal"
         },
         {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
+          "name": "Reo",
+          "rarity": "Rare",
+          "role": "Flexible Support",
+          "signatureFocus": "Ball control and adaptable support moves",
+          "bestFor": "Linking defense, midfield and attack"
         },
         {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
+          "name": "Sae",
+          "rarity": "Epic",
+          "role": "Playmaker",
+          "signatureFocus": "Accurate passing and chance creation",
+          "bestFor": "Setting up teammates"
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
+          "name": "Kaiser",
+          "rarity": "Legendary",
+          "role": "Precision Striker",
+          "signatureFocus": "Fast and accurate finishing",
+          "bestFor": "Dedicated goal scorers"
         },
         {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
+          "name": "Rin",
+          "rarity": "Legendary",
+          "role": "Complete Forward",
+          "signatureFocus": "Powerful shooting and offensive control",
+          "bestFor": "Players who want a balanced attacker"
         },
         {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
+          "name": "Don Lorenzo",
+          "rarity": "Legendary",
+          "role": "Defensive Specialist",
+          "signatureFocus": "Stopping attackers and starting counterattacks",
+          "bestFor": "Defense-focused teams"
         },
         {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
+          "name": "Ronaldo",
+          "rarity": "Secret",
+          "role": "Elite Scorer",
+          "signatureFocus": "High-impact shooting and finishing",
+          "bestFor": "Maximizing goal pressure"
         },
         {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
+          "name": "Dio",
+          "rarity": "Secret",
+          "role": "Crossover Specialist",
+          "signatureFocus": "Disruptive special abilities",
+          "bestFor": "Unpredictable ability-based play"
         },
         {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "name": "Santa Claus",
+          "rarity": "Secret",
+          "role": "Limited Crossover Character",
+          "signatureFocus": "Event-themed special moves",
+          "bestFor": "Collectors and unusual team builds"
+        },
+        {
+          "name": "Luffy / Gear 5",
+          "rarity": "Secret",
+          "role": "Mobile Attacker",
+          "signatureFocus": "Unusual movement and offensive abilities",
+          "bestFor": "Breaking through defensive lines"
+        },
+        {
+          "name": "Aiku",
+          "rarity": "Update Character",
+          "role": "Defender",
+          "signatureFocus": "Interceptions and defensive control",
+          "bestFor": "Stopping opposing strikers"
+        },
+        {
+          "name": "Barou",
+          "rarity": "Update Character",
+          "role": "Power Striker",
+          "signatureFocus": "King's Chop Shot and forceful finishing",
+          "bestFor": "Aggressive solo attacks"
+        },
+        {
+          "name": "Chigiri",
+          "rarity": "Update Character",
+          "role": "Speed Attacker",
+          "signatureFocus": "Acceleration and fast attacking runs",
+          "bestFor": "Outrunning defenders"
+        },
+        {
+          "name": "Shidou",
+          "rarity": "Update Character",
+          "role": "Explosive Striker",
+          "signatureFocus": "Aggressive finishing and high-pressure attacks",
+          "bestFor": "Close-range scoring"
+        },
+        {
+          "name": "Ichigo",
+          "rarity": "Update Character",
+          "role": "Crossover Attacker",
+          "signatureFocus": "Bankai-themed offensive abilities",
+          "bestFor": "Special-move-focused gameplay"
+        },
+        {
+          "name": "Character Rolls and Storage",
+          "rarity": "System",
+          "role": "Collection Management",
+          "signatureFocus": "Roll, store and switch unlocked characters",
+          "bestFor": "Building multiple playstyles",
+          "details": [
+            "Open the Shop to roll for characters.",
+            "A standard character roll costs 250 Cash.",
+            "Unlocked characters can be selected from the Storage menu.",
+            "Keep strong or rare characters instead of replacing them immediately.",
+            "Cash can also be used for emotes and MVP animations."
+          ]
         }
       ]
     },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
-      "faqs": [
+    "blueLockSkibidiControlsAndSkillsGuide": {
+      "eyebrow": "Controls Guide",
+      "title": "Blue Lock Skibidi Controls and Skills Guide",
+      "subtitle": "Learn every official desktop control for shooting, defending, dribbling, requesting passes, diving as goalkeeper and activating character skills.",
+      "intro": "Blue Lock Skibidi uses a small set of universal controls alongside character-specific moves. Good timing matters more than pressing every ability immediately, so keep your strongest moves available for open shots, interceptions and one-on-one situations.",
+      "items": [
         {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
+          "action": "Shoot or Clear",
+          "desktopKey": "Left Mouse Button",
+          "function": "Kicks the ball toward the direction your character is facing.",
+          "matchTiming": "Face the target before shooting. Use it near the goal to finish an attack, or inside your own box to clear the ball away from danger."
         },
         {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
+          "action": "Slide",
+          "desktopKey": "E",
+          "function": "Performs a sliding defensive action that can challenge the current ball carrier.",
+          "matchTiming": "Use it after the opponent commits to a direction. Sliding too early gives the attacker time to dribble around you."
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
+          "action": "Dribble",
+          "desktopKey": "Q",
+          "function": "Performs the standard dribble action when playing as an outfield player.",
+          "matchTiming": "Activate it as a defender approaches, instead of using it while you still have several steps of open space."
         },
         {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
+          "action": "Goalkeeper Dive",
+          "desktopKey": "Q",
+          "function": "Changes from dribble to goalkeeper dive while you are playing in goal.",
+          "matchTiming": "Wait for the shooter to release the ball, then dive toward its path. Early dives leave the opposite side of the goal open."
         },
         {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
+          "action": "Request Ball",
+          "desktopKey": "R",
+          "function": "Signals that you want a teammate to send you the ball.",
+          "matchTiming": "Request the ball after moving into open space. Repeated requests while covered rarely create a useful passing option."
+        },
+        {
+          "action": "Character Moves",
+          "desktopKey": "1, 2, 3, 4 and 5",
+          "function": "Activates the numbered abilities available to your equipped character.",
+          "matchTiming": "Check whether a move requires possession, a nearby opponent, an airborne ball or a clear shooting lane before activating it."
         }
       ]
     },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
-      "settings": [
+    "blueLockSkibidiGoalkeeperGuide": {
+      "eyebrow": "Goalkeeper Guide",
+      "title": "Blue Lock Skibidi Goalkeeper Guide",
+      "subtitle": "Improve your positioning, dive timing, clearances and decisions against regular shots and character abilities.",
+      "intro": "Goalkeepers use Q to dive and the standard shooting control to clear or distribute the ball. The safest approach is to remain centered, follow the ball rather than every player movement, and avoid committing before the attacker begins the shot.",
+      "items": [
         {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
+          "step": 1,
+          "title": "Start in the Center",
+          "instruction": "Stay near the middle of the goal and adjust sideways as the ball moves. This keeps both corners reachable and prevents attackers from scoring into an unguarded side.",
+          "keyControl": "Movement controls"
         },
         {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
+          "step": 2,
+          "title": "Follow the Ball",
+          "instruction": "Track the ball carrier and the ball's angle instead of chasing every nearby player. Move toward the near post when the attacker approaches from a wide position.",
+          "keyControl": "Movement controls"
         },
         {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
+          "step": 3,
+          "title": "Wait Before Diving",
+          "instruction": "Use Q only after the shot or shooting ability begins. Diving during a dribble animation allows the attacker to wait and finish into the empty side.",
+          "keyControl": "Q — Goalkeeper Dive"
         },
         {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
+          "step": 4,
+          "title": "Respect Character Abilities",
+          "instruction": "Powerful character shots can arrive faster or from unusual angles. Stay centered for as long as possible and react to the ball's release rather than the opening animation.",
+          "keyControl": "Q — Goalkeeper Dive"
+        },
+        {
+          "step": 5,
+          "title": "Clear or Distribute",
+          "instruction": "After gaining control, face an open teammate or an unoccupied side of the field before kicking. Avoid sending the ball directly toward an opponent waiting outside the box.",
+          "keyControl": "Left Mouse Button — Kick"
+        },
+        {
+          "step": 6,
+          "title": "Leave the Goal Carefully",
+          "instruction": "Run forward only when you can reach a loose ball before the attacker. If the opponent already controls the ball, protect the goal and force them to shoot through a smaller angle.",
+          "keyControl": "Movement controls"
         }
       ]
     },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
-      "entries": [
+    "blueLockSkibidiChemicalReactionsAndCombos": {
+      "eyebrow": "Team Combos",
+      "title": "Blue Lock Skibidi Chemical Reactions and Combos",
+      "subtitle": "Set up the verified Reo and Nagi Chemical Reaction with the correct characters, passing lane, positioning and follow-up timing.",
+      "intro": "The Reo and Nagi Chemical Reaction is a coordinated technique added alongside the Barou update. It requires separate teammates using Reo and Nagi, with Reo starting the sequence by sending the ball directly to Nagi.",
+      "items": [
         {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
+          "name": "Reo and Nagi Chemical Reaction",
+          "participants": ["Reo", "Nagi"],
+          "requirements": [
+            "Reo and Nagi must be controlled by players on the same team.",
+            "The Reo player must have possession of the ball.",
+            "The Nagi player must be available in a clear receiving lane."
+          ],
+          "activation": [
+            "Move Nagi into space ahead of or beside the Reo player.",
+            "Have Reo kick the ball directly toward Nagi.",
+            "Complete the reaction follow-up as the pass reaches the Nagi player."
+          ],
+          "bestUse": "Use the reaction near the attacking third when a direct pass can move the ball beyond the final defender and create an immediate finish.",
+          "positioning": "Reo should face Nagi before passing, while Nagi should avoid standing directly behind a defender or too close to Reo."
         },
         {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
+          "name": "Central Attack Setup",
+          "participants": ["Reo", "Nagi"],
+          "requirements": [
+            "Nagi moves between the defenders.",
+            "Reo keeps possession until the passing lane opens."
+          ],
+          "activation": [
+            "Approach through the center without forcing the first pass.",
+            "Let Nagi move into the gap between defenders.",
+            "Send the Reo pass and trigger the reaction before the defense closes the space."
+          ],
+          "bestUse": "Effective against teams that leave space between their defenders and goalkeeper.",
+          "positioning": "Keep Nagi several steps ahead of Reo, so the reaction advances the attack instead of happening in a crowded midfield area."
         },
         {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "name": "Wide-to-Center Setup",
+          "participants": ["Reo", "Nagi"],
+          "requirements": [
+            "Reo carries the ball along one side of the field.",
+            "Nagi moves toward the center of the penalty area."
+          ],
+          "activation": [
+            "Draw a defender toward Reo on the wing.",
+            "Wait for Nagi to enter the open central lane.",
+            "Pass inward and complete the reaction before the goalkeeper can reposition."
+          ],
+          "bestUse": "Useful when the middle is crowded at the start of the attack but opens after defenders move toward the wing.",
+          "positioning": "Nagi should remain inside Reo's forward view and avoid moving behind the goal or outside the passing angle."
+        },
+        {
+          "name": "Common Reaction Mistakes",
+          "participants": ["Reo", "Nagi"],
+          "requirements": [
+            "Correct characters and team alignment",
+            "Direct pass",
+            "Immediate follow-up"
+          ],
+          "activation": [
+            "Do not attempt the sequence with two players using the same character.",
+            "Do not send the pass toward a covered Nagi player.",
+            "Do not delay the follow-up after the ball reaches Nagi."
+          ],
+          "bestUse": "Use this checklist before attempting the reaction in a competitive match.",
+          "positioning": "A blocked passing lane, excessive distance, or another teammate intercepting the pass can stop the intended sequence."
         }
       ]
     },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
-      "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
-      "steps": [
+    "blueLockSkibidiUpdatesAndNewCharacters": {
+      "eyebrow": "Update Tracker",
+      "title": "Blue Lock Skibidi Updates and New Characters",
+      "subtitle": "Follow the newest characters, update codes, team mechanics and balance changes added to Blue Lock Skibidi.",
+      "intro": "Blue Lock Skibidi regularly expands its roster with Blue Lock characters and crossover-inspired styles. Recent releases have included Shidou, Ichigo, Gear 5 Luffy, Barou and the Reo and Nagi Chemical Reaction.",
+      "items": [
         {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
+          "date": "July 5, 2026",
+          "update": "Shidou and Ichigo Update",
+          "newContent": [
+            "Shidou character content",
+            "Ichigo character content",
+            "New update reward codes"
+          ],
+          "gameplayChanges": "The official experience title was updated to highlight Shidou and Ichigo, expanding the available character content beyond the earlier Barou and Gear 5 releases.",
+          "codes": ["SHIDOU", "DEMON", "BANKAI"]
         },
         {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
+          "date": "March 2026",
+          "update": "Gear 5 Luffy Update",
+          "newContent": [
+            "Gear 5 Luffy playable style",
+            "Gear 5-themed abilities and animations",
+            "Update reward codes"
+          ],
+          "gameplayChanges": "The release added Gear 5 Luffy to the character lineup. Related balance changes reduced Barou's power-shot strength and stopped Barou's third move from grabbing abilities.",
+          "codes": ["GearFifth!", "SORRYFORDELAYPLS"]
         },
         {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
-        },
-        {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
-        },
-        {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "date": "February 2026",
+          "update": "Barou Update",
+          "newContent": [
+            "Barou playable character",
+            "Reo and Nagi Chemical Reaction",
+            "Barou update reward codes"
+          ],
+          "gameplayChanges": "Barou joined the roster as an attack-focused character, while Reo and Nagi received a coordinated Chemical Reaction activated by having Reo kick the ball to a teammate using Nagi.",
+          "codes": ["BAROU", "TheKing"]
         }
       ]
     }
@@ -749,31 +654,31 @@
   "faq": {
     "title": "Frequently Asked",
     "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "subtitle": "Everything you need to know about Blue Lock Skibidi",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "What is Blue Lock Skibidi?",
+        "answer": "Blue Lock Skibidi is an anime-inspired Roblox soccer game where players shoot, slide, dribble, dive as goalkeeper, call for passes and activate character abilities in chaotic matches."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "Where can I play Blue Lock Skibidi?",
+        "answer": "Blue Lock Skibidi is available on Roblox. You can join directly through the official Roblox game page without a separate download."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "How do I redeem codes in Blue Lock Skibidi?",
+        "answer": "Open the Menu at the bottom of the screen, select Codes, paste a working code exactly as written, and press Redeem to claim your Cash reward."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "How do I unlock new characters in Blue Lock Skibidi?",
+        "answer": "Open the Shop and spend Cash on character rolls. Each standard roll costs 250 Cash, and unlocked characters can be equipped from the Storage menu."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "What are the controls in Blue Lock Skibidi?",
+        "answer": "Blue Lock Skibidi uses Left Click to shoot, E to slide, Q to dribble or dive as goalkeeper, R to request the ball, and the number keys 1 to 5 to activate character moves."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "Is Blue Lock Skibidi getting updates?",
+        "answer": "Yes. Blue Lock Skibidi continues to add characters and content, including recent Shidou, Ichigo, Gear 5 Luffy and Barou updates alongside the Reo and Nagi Chemical Reaction."
       }
     ]
   },
@@ -785,7 +690,7 @@
   },
   "footer": {
     "title": "Blue Lock Skibidi Wiki",
-    "description": "Your complete resource hub for Blue Lock Skibidi codes, tier lists, characters, controls, skills, and update guides for the Roblox soccer game.",
+    "description": "Your complete resource hub for Blue Lock Skibidi codes, tier lists, characters, controls, skills and update guides for the Roblox soccer game.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
@@ -800,125 +705,165 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Lucid Blocks Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+    "codes": {
+      "title": "Blue Lock Skibidi Codes",
+      "description": "Working and expired Blue Lock Skibidi codes, Cash rewards and exact redemption steps.",
+      "metaTitle": "Blue Lock Skibidi Codes - Working Codes & Rewards",
+      "metaDescription": "Find working Blue Lock Skibidi codes, Cash rewards and step-by-step redemption instructions for the Roblox soccer game.",
+      "categoryLabel": "CODES",
+      "whatIs": "What are Blue Lock Skibidi Codes?",
+      "whatIsDescription": "Blue Lock Skibidi codes are free reward strings released alongside updates and milestones. Redeem them for Cash you can spend on character rolls, emotes and MVP animations.",
+      "why": "Why use codes?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step1Title": "Free Cash",
+        "step1Description": "Redeem codes to claim Cash without grinding extra matches",
+        "step2Title": "More Rolls",
+        "step2Description": "Use code Cash to roll for a wider roster of characters",
+        "step3Title": "Stay Current",
+        "step3Description": "New codes drop with every Blue Lock Skibidi update"
       },
-      "featured": "Featured & Essential",
-      "all": "All Guides"
+      "featured": "Working Codes",
+      "all": "All Codes"
     },
-    "crafting": {
-      "title": "Lucid Blocks Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+    "beginner-guide": {
+      "title": "Blue Lock Skibidi Beginner Guide",
+      "description": "Learn the core controls, positions and early Cash spending for your first Blue Lock Skibidi matches.",
+      "metaTitle": "Blue Lock Skibidi Beginner Guide - Start Playing",
+      "metaDescription": "A complete Blue Lock Skibidi beginner guide covering controls, positioning, Cash spending and first-match tips for the Roblox soccer game.",
+      "categoryLabel": "BEGINNER GUIDE",
+      "whatIs": "What is the Blue Lock Skibidi Beginner Guide?",
+      "whatIsDescription": "The beginner guide covers the controls, match flow and early rewards that help new players learn Blue Lock Skibidi and build a useful character collection.",
+      "why": "Why read the beginner guide?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "Learn Controls",
+        "step1Description": "Master shooting, sliding, dribbling and passing before using abilities",
+        "step2Title": "Play Your Role",
+        "step2Description": "Understand positions and possession to avoid common first-match mistakes",
+        "step3Title": "Spend Cash Smartly",
+        "step3Description": "Prioritize character rolls before cosmetics and emotes"
       },
-      "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "featured": "Featured Guide",
+      "all": "All Beginner Guides"
     },
-    "items": {
-      "title": "Lucid Blocks Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+    "character-tier-list": {
+      "title": "Blue Lock Skibidi Character Tier List",
+      "description": "Rank every Blue Lock Skibidi character by scoring, mobility, defense, move quality and ease of use.",
+      "metaTitle": "Blue Lock Skibidi Tier List - Best Characters Ranked",
+      "metaDescription": "Compare the best Blue Lock Skibidi characters in a full tier list ranked by scoring, mobility, defense, move quality and ease of use.",
+      "categoryLabel": "TIER LIST",
+      "whatIs": "What is the Blue Lock Skibidi Tier List?",
+      "whatIsDescription": "The tier list ranks available characters by their overall match impact, helping you pick the strongest options for scoring, defense and support.",
+      "why": "Why use the tier list?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Pick Strong Characters",
+        "step1Description": "Focus Cash rolls on S-tier and A-tier characters first",
+        "step2Title": "Match Your Role",
+        "step2Description": "Choose characters that fit your preferred position",
+        "step3Title": "Track the Meta",
+        "step3Description": "Update picks whenever balance changes or new characters release"
       },
-      "featured": "Featured & Essential",
-      "all": "All Items"
+      "featured": "Top-Tier Picks",
+      "all": "Full Tier List"
     },
-    "biomes": {
-      "title": "Lucid Blocks Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+    "characters-and-rarities": {
+      "title": "Blue Lock Skibidi Characters and Rarities",
+      "description": "Browse every Blue Lock Skibidi character, rarity, role and how to roll, store and switch them.",
+      "metaTitle": "Blue Lock Skibidi Characters - Rarities, Roles & Rolls",
+      "metaDescription": "Explore all Blue Lock Skibidi characters, their rarities, roles, signature moves and how to roll, store and switch them in the Roblox soccer game.",
+      "categoryLabel": "CHARACTERS",
+      "whatIs": "What are Blue Lock Skibidi Characters and Rarities?",
+      "whatIsDescription": "Characters are unlocked through the Shop and equipped from Storage. Rarities range from Common to Legendary and Secret, with update characters added over time.",
+      "why": "Why study characters and rarities?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "Know the Roster",
+        "step1Description": "Understand each character's role and signature moves",
+        "step2Title": "Roll Efficiently",
+        "step2Description": "Spend Cash wisely on characters that fit your team",
+        "step3Title": "Manage Storage",
+        "step3Description": "Keep strong and rare characters instead of overwriting them"
       },
-      "featured": "Featured & Essential",
-      "all": "All Biomes"
+      "featured": "Featured Characters",
+      "all": "All Characters"
     },
-    "building": {
-      "title": "Lucid Blocks Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
+    "controls-and-skills-guide": {
+      "title": "Blue Lock Skibidi Controls and Skills Guide",
+      "description": "Every official Blue Lock Skibidi desktop control for shooting, defending, dribbling and diving.",
+      "metaTitle": "Blue Lock Skibidi Controls - Full Keybind Guide",
+      "metaDescription": "Master every Blue Lock Skibidi control including shooting, sliding, dribbling, requesting passes, goalkeeper diving and character moves.",
+      "categoryLabel": "CONTROLS",
+      "whatIs": "What are the Blue Lock Skibidi Controls?",
+      "whatIsDescription": "Blue Lock Skibidi uses a compact set of universal controls plus character-specific moves bound to the number keys 1 through 5.",
+      "why": "Why learn the controls?",
       "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
+        "step1Title": "React Faster",
+        "step1Description": "Memorize keybinds so shooting, sliding and diving become instant",
+        "step2Title": "Time Your Moves",
+        "step2Description": "Good timing beats pressing every ability at once",
+        "step3Title": "Use Abilities Smartly",
+        "step3Description": "Save character moves for open shots and interceptions"
       },
-      "featured": "Featured & Essential",
-      "all": "All Building Guides"
+      "featured": "Core Keybinds",
+      "all": "All Controls"
     },
-    "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
+    "goalkeeper-guide": {
+      "title": "Blue Lock Skibidi Goalkeeper Guide",
+      "description": "Positioning, dive timing, clearances and decisions for Blue Lock Skibidi goalkeepers.",
+      "metaTitle": "Blue Lock Skibidi Goalkeeper Guide - Diving & Positioning",
+      "metaDescription": "Improve your Blue Lock Skibidi goalkeeping with positioning, dive timing, ball distribution and how to defend against character abilities.",
+      "categoryLabel": "GOALKEEPER",
+      "whatIs": "What is the Blue Lock Skibidi Goalkeeper Guide?",
+      "whatIsDescription": "The goalkeeper guide explains how to stay centered, time dives, distribute the ball and avoid the mistakes that lead to easy scores in Blue Lock Skibidi.",
+      "why": "Why read the goalkeeper guide?",
       "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
+        "step1Title": "Stay Centered",
+        "step1Description": "Cover both corners by following the ball, not the players",
+        "step2Title": "Time Dives",
+        "step2Description": "Dive only after the shot or shooting ability begins",
+        "step3Title": "Distribute Safely",
+        "step3Description": "Clear the ball away from opponents waiting outside the box"
       },
-      "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "featured": "Featured Tips",
+      "all": "All Goalkeeper Tips"
+    },
+    "chemical-reactions-and-combos": {
+      "title": "Blue Lock Skibidi Chemical Reactions and Combos",
+      "description": "Team chemical reactions and coordinated combo setups for Blue Lock Skibidi.",
+      "metaTitle": "Blue Lock Skibidi Chemical Reactions & Combos Guide",
+      "metaDescription": "Learn Blue Lock Skibidi chemical reactions and team combos, including the verified Reo and Nagi setup, positioning and activation timing.",
+      "categoryLabel": "COMBOS",
+      "whatIs": "What are Blue Lock Skibidi Chemical Reactions and Combos?",
+      "whatIsDescription": "Chemical reactions are coordinated multi-character techniques that trigger when the right players pass and follow up together in Blue Lock Skibidi.",
+      "why": "Why learn combos?",
+      "whySteps": {
+        "step1Title": "Unlock Team Plays",
+        "step1Description": "Trigger reactions only possible with coordinated teammates",
+        "step2Title": "Beat Defenses",
+        "step2Description": "Use combos to move the ball beyond the final defender",
+        "step3Title": "Coordinate Timing",
+        "step3Description": "Master activation windows for high-pressure situations"
+      },
+      "featured": "Featured Combos",
+      "all": "All Combos"
+    },
+    "updates-and-new-characters": {
+      "title": "Blue Lock Skibidi Updates and New Characters",
+      "description": "Latest Blue Lock Skibidi patches, new characters, codes and balance changes.",
+      "metaTitle": "Blue Lock Skibidi Updates - New Characters & Patch Notes",
+      "metaDescription": "Follow the latest Blue Lock Skibidi updates including new characters, balance changes, event content and fresh reward codes.",
+      "categoryLabel": "UPDATES",
+      "whatIs": "What are Blue Lock Skibidi Updates?",
+      "whatIsDescription": "Updates add new characters, abilities, team mechanics and codes to Blue Lock Skibidi, along with balance changes that shift the meta over time.",
+      "why": "Why follow updates?",
+      "whySteps": {
+        "step1Title": "New Characters",
+        "step1Description": "Roll for freshly added Blue Lock and crossover characters",
+        "step2Title": "New Codes",
+        "step2Description": "Grab update reward codes before they expire",
+        "step3Title": "Meta Shifts",
+        "step3Description": "Adjust your picks whenever balance changes land"
+      },
+      "featured": "Latest Update",
+      "all": "All Updates"
     }
   }
 }
