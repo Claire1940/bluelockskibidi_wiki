@@ -1,0 +1,2 @@
+# 占位文件：保留空 content/ 目录结构，避免 content-manifest 脚本因目录缺失 exit(1)。
+# 后续 part 会在此填充 MDX 内容。
