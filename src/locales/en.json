@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Blue Lock Skibidi Wiki - Codes, Tier List & Characters",
+      "description": "Find working Blue Lock Skibidi codes, character rankings, controls, skills, cash tips, update notes, and beginner guides for the Roblox soccer game.",
+      "keywords": "Blue Lock Skibidi, Roblox, codes, tier list, characters, controls, skills, updates",
+      "ogTitle": "Blue Lock Skibidi Wiki - Codes, Tier List & Characters",
+      "ogDescription": "Find working Blue Lock Skibidi codes, character rankings, controls, skills, cash tips, update notes, and beginner guides for the Roblox soccer game.",
+      "twitterTitle": "Blue Lock Skibidi Wiki - Codes, Tier List & Characters",
+      "twitterDescription": "Find working Blue Lock Skibidi codes, character rankings, controls, skills, cash tips, update notes, and beginner guides for the Roblox soccer game."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Chaotic Anime Soccer Game",
+    "title": "Blue Lock Skibidi Wiki",
+    "description": "Master anime-inspired soccer characters, powerful moves, awakenings and chaotic matches. Find working codes, rankings, controls and updated guides.",
+    "getFreeCodesCTA": "Get Free Codes",
+    "playOnRobloxCTA": "Play on Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "13M+",
+        "label": "Total Visits"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "13K+",
+        "label": "Favorites"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "86%",
+        "label": "Approval Rate"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "10",
+        "label": "Server Size"
       }
     }
   },
@@ -785,26 +785,25 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready to Play Blue Lock Skibidi?",
+    "description": "Jump into the chaotic anime soccer action on Roblox, redeem the latest codes, and master every character and skill.",
+    "joinCommunity": "Watch Gameplay",
+    "joinGame": "Play on Roblox"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Blue Lock Skibidi Wiki",
+    "description": "Your complete resource hub for Blue Lock Skibidi codes, tier lists, characters, controls, skills, and update guides for the Roblox soccer game.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "roblox": "Play on Roblox",
+    "developer": "Developer Profile",
+    "youtube": "Watch Gameplay",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Blue Lock Skibidi Wiki. Not affiliated with the developers of Blue Lock: Skibidi.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
