@@ -1,12 +1,12 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "Blue Lock Skibidi Wiki - Codes, Tier List & Characters",
+  "short_name": "Blue Lock Skibidi",
+  "description": "Find working Blue Lock Skibidi codes, character rankings, controls, skills, cash tips, update notes, and beginner guides for the Roblox soccer game.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "theme_color": "#0b64f4",
+  "background_color": "#0a0e1a",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",

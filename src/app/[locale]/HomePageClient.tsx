@@ -158,13 +158,13 @@ export default function HomePageClient({
       },
       {
         "@type": "VideoObject",
-        name: "LUCID BLOCKS | AVAILABLE NOW",
+        name: "THIS GAME IS SO BAD ITS GOOD? | Blue Lock Skibidi",
         description:
-          "Official Lucid Blocks video featuring the Steam launch trailer and gameplay preview.",
-        uploadDate: "2026-03-12",
+          "Blue Lock Skibidi gameplay showcase — anime-inspired Roblox soccer with chaotic matches, character skills, and awakenings.",
+        uploadDate: "2026-01-01",
         thumbnailUrl: `${siteUrl}/images/hero.webp`,
-        embedUrl: "https://www.youtube.com/embed/7C7fybRM_No",
-        url: "https://www.youtube.com/watch?v=7C7fybRM_No",
+        embedUrl: "https://www.youtube.com/embed/Gz6agTftZ1Y",
+        url: "https://www.youtube.com/watch?v=Gz6agTftZ1Y",
       },
     ],
   };
@@ -267,24 +267,24 @@ export default function HomePageClient({
         </div>
       </section>
 
+      {/* Video Section */}
+      <section className="px-4 py-10 md:py-12">
+        <div className="scroll-reveal container mx-auto max-w-5xl">
+          <div className="relative overflow-hidden rounded-2xl">
+            <VideoFeature
+              videoId="Gz6agTftZ1Y"
+              title="THIS GAME IS SO BAD ITS GOOD? | Blue Lock Skibidi"
+            />
+          </div>
+        </div>
+      </section>
+
       {/* Latest Updates Section */}
       <LatestGuidesAccordion
         articles={latestArticles}
         locale={locale}
         max={12}
       />
-
-      {/* Video Section */}
-      <section className="px-4 py-10 md:py-12">
-        <div className="scroll-reveal container mx-auto max-w-5xl">
-          <div className="relative overflow-hidden rounded-2xl">
-            <VideoFeature
-              videoId="7C7fybRM_No"
-              title="LUCID BLOCKS | AVAILABLE NOW"
-            />
-          </div>
-        </div>
-      </section>
 
       {/* Tools Grid - 16 Navigation Cards */}
       <section className="px-4 py-14 md:py-20 bg-white/[0.02]">
@@ -779,7 +779,7 @@ export default function HomePageClient({
                 >
                   <div className="mb-3">
                     <span
-                      className={`text-xs px-2 py-1 rounded-full border ${["Hostile Enemy", "Major Threat", "Elite Threat"].includes(c.role) ? "bg-red-500/10 border-red-500/30 text-red-400" : "bg-[hsl(var(--nav-theme)/0.1)] border-[hsl(var(--nav-theme)/0.3)]"}`}
+                      className={`text-xs px-2 py-1 rounded-full border ${["Hostile Enemy", "Major Threat", "Elite Threat"].includes(c.role) ? "bg-[hsl(var(--nav-theme)/0.15)] border-[hsl(var(--nav-theme)/0.4)] text-[hsl(var(--nav-theme-light))]" : "bg-[hsl(var(--nav-theme)/0.1)] border-[hsl(var(--nav-theme)/0.3)]"}`}
                     >
                       {c.role}
                     </span>
@@ -969,7 +969,7 @@ export default function HomePageClient({
                   <div className="flex items-center gap-2 mb-3">
                     <Star className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
                     <span
-                      className={`text-xs px-2 py-1 rounded-full border ${p.priority === "Essential" ? "bg-red-500/10 border-red-500/30 text-red-400" : p.priority === "Very High" ? "bg-orange-500/10 border-orange-500/30 text-orange-400" : "bg-[hsl(var(--nav-theme)/0.1)] border-[hsl(var(--nav-theme)/0.3)]"}`}
+                      className={`text-xs px-2 py-1 rounded-full border ${p.priority === "Essential" ? "bg-[hsl(var(--nav-theme)/0.15)] border-[hsl(var(--nav-theme)/0.4)] text-[hsl(var(--nav-theme-light))]" : p.priority === "Very High" ? "bg-orange-500/10 border-orange-500/30 text-orange-400" : "bg-[hsl(var(--nav-theme)/0.1)] border-[hsl(var(--nav-theme)/0.3)]"}`}
                     >
                       {p.priority}
                     </span>
