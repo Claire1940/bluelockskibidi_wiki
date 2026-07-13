@@ -80,7 +80,7 @@
       },
       {
         "icon": "Troféu",
-        "title": "Tier List",
+        "title": "Lista de Níveis",
         "description": "Rankings de personagens de Blue Lock Skibidi por finalização, mobilidade, defesa e valor"
       },
       {
@@ -276,12 +276,12 @@
             {
               "name": "Ronaldo",
               "role": "Artilheiro de Elite\n    <<1>> Combina finalização poderosa com forte pressão ofensiva e potencial de pontuação decisivo para vencer partidas.\n    <<2>> Don Lorenzo\n    <<3>> Especialista Defensivo\n    <<4>> Oferece controle defensivo de elite enquanto cria oportunidades de transição para o ataque.\n    <<5>> A\n    <<6>> Escolhas Fortes do Meta\n    <<7>> Kaiser\n    <<8>> Atacante de Precisão\n    <<9>> Um personagem de finalização confiável focado em oportunidades de chute perigosas.\n    <<10>> Luffy\n    <<11>> Atacante Móvel\n    <<12>> Usa movimentação incomum e habilidades ofensivas para desestabilizar defensores e alcançar posições de chute.\n    <<13>> Rin\n    <<14>> Centroavante Completo\n    <<15>> Oferece uma combinação equilibrada de potência de chute, controle e versatilidade ofensiva.\n    <<16>> B\n    <<17>> Especialistas Sólidos\n    <<18>> Sae\n    <<19>> Armador\n    <<20>> Destaca-se no controle da posse de bola e na criação de chances de gol através de passes.\n    <<21>> Reo\n    <<22>> Suporte Flexível\n    <<23>> Uma opção versátil que contribui através da movimentação da bola, jogo de apoio e habilidades adaptáveis.\n    <<24>> C\n    <<25>> Escolhas Iniciais e Situacionais\n    <<26>> Gagamaru\n    <<27>> Goleiro\n    <<28>> Mais útil ao proteger o gol e usar mergulhos de goleiro em vez de liderar o ataque.\n    <<29>> Isagi\n    <<30>> Centroavante Inicial\n    <<31>> Uma opção direta para iniciantes aprenderem posicionamento, finalização e o tempo básico das habilidades.\n    <<32>> Coleção de Personagens\n    <<33>> Personagens e Raridades de Blue Lock Skibidi\n    <<34>> Explore o elenco padrão, atacantes raros, personagens lendários, estilos secretos de crossover e adições de grandes atualizações.\n    <<35>> Os personagens são obtidos através da Loja e podem ser equipados no Armazenamento após serem desbloqueados. Cada personagem fornece um conjunto diferente de movimentos, tornando útil manter opções de finalização, passe, defesa e goleiro.\n    <<36>> Isagi\n    <<37>> Comum\n    <<38>> Centroavante Inicial\n    <<39>> Posicionamento e chute direto",
-              "strength": "Combines powerful finishing with strong offensive pressure and match-winning scoring potential."
+              "strength": "Combina finalização poderosa com forte pressão ofensiva e potencial de marcar gols decisivos."
             },
             {
               "name": "Don Lorenzo",
-              "role": "Defensive Specialist",
-              "strength": "Provides elite defensive control while still creating opportunities to transition into an attack."
+              "role": "Especialista Defensivo",
+              "strength": "Oferece controle defensivo de elite enquanto ainda cria oportunidades de transição para o ataque."
             }
           ]
         },
@@ -291,18 +291,18 @@
           "characters": [
             {
               "name": "Kaiser",
-              "role": "Precision Striker",
-              "strength": "A reliable finishing character built around dangerous shooting opportunities."
+              "role": "Atacante de Precisão",
+              "strength": "Um personagem finalizador confiável focado em oportunidades de chute perigosas."
             },
             {
               "name": "Luffy",
-              "role": "Mobile Attacker",
-              "strength": "Uses unusual movement and offensive abilities to disrupt defenders and reach shooting positions."
+              "role": "Atacante Mobile",
+              "strength": "Usa movimentação incomum e habilidades ofensivas para desestabilizar os defensores e alcançar posições de finalização."
             },
             {
               "name": "Rin",
-              "role": "Complete Forward",
-              "strength": "Offers a balanced combination of shooting power, control and offensive versatility."
+              "role": "Atacante Completo",
+              "strength": "Oferece uma combinação equilibrada de potência de chute, controle e versatilidade ofensiva."
             }
           ]
         },
@@ -312,13 +312,13 @@
           "characters": [
             {
               "name": "Sae",
-              "role": "Playmaker",
-              "strength": "Excels at controlling possession and creating scoring chances through passing."
+              "role": "Armador",
+              "strength": "Destaca-se em controlar a posse de bola e criar chances de gol através de passes."
             },
             {
               "name": "Reo",
-              "role": "Flexible Support",
-              "strength": "A versatile option that contributes through ball movement, support play and adaptable abilities."
+              "role": "Suporte Flexível",
+              "strength": "Uma opção versátil que contribui através da movimentação de bola, jogo de apoio e habilidades adaptáveis."
             }
           ]
         },
@@ -328,29 +328,29 @@
           "characters": [
             {
               "name": "Gagamaru",
-              "role": "Goalkeeper",
-              "strength": "Most useful when protecting the goal and using goalkeeper dives rather than leading the attack."
+              "role": "Goleiro",
+              "strength": "Mais útil ao proteger o gol e usar saltos do goleiro, em vez de liderar o ataque."
             },
             {
               "name": "Isagi",
-              "role": "Starter Forward",
-              "strength": "A straightforward beginner option for learning positioning, shooting and basic ability timing."
+              "role": "Atacante Inicial",
+              "strength": "Uma opção simples para iniciantes aprenderem posicionamento, chute e o tempo de habilidades básicas."
             }
           ]
         }
       ]
     },
     "blueLockSkibidiCharactersAndRarities": {
-      "eyebrow": "Character Collection",
-      "title": "Blue Lock Skibidi Characters and Rarities",
-      "subtitle": "Explore the standard roster, rare attackers, legendary characters, secret crossover styles and major update additions.",
-      "intro": "Characters are obtained through the Shop and can be equipped from Storage after they are unlocked. Each character supplies a different set of moves, making it useful to keep scoring, passing, defensive and goalkeeper options.",
+      "eyebrow": "Coleção de Personagens",
+      "title": "Personagens e Raridades de Blue Lock Skibidi",
+      "subtitle": "Explore o elenco padrão, atacantes raros, personagens lendários, estilos secretos de crossover e as adições das principais atualizações.",
+      "intro": "Os personagens são obtidos por meio da Loja e podem ser equipados a partir do Armazenamento após serem desbloqueados. Cada personagem fornece um conjunto diferente de movimentos, tornando útil manter opções de finalização, passe, defesa e goleiro.",
       "items": [
         {
           "name": "Isagi",
-          "rarity": "Common",
-          "role": "Starter Forward",
-          "signatureFocus": "Positioning and direct shooting",
+          "rarity": "Comum",
+          "role": "Atacante Inicial",
+          "signatureFocus": "Posicionamento e chute direto",
           "bestFor": "Aprendendo controles básicos de ataque"
         },
         {
@@ -811,7 +811,7 @@
       "all": "Todos os Rankings"
     },
     "characters": {
-      "title": "Blue Lock Skibidi Characters",
+      "title": "Personagens de Blue Lock Skibidi",
       "description": "Elenco completo de Blue Lock Skibidi characters com rarities, skills, awakenings e como desbloquear cada um, de Rin e Sae a Luffy e Dio.",
       "metaTitle": "Blue Lock Skibidi Characters - Roster, Skills & Guia de Desbloqueio",
       "metaDescription": "Explore cada Blue Lock Skibidi character, incluindo Rin, Sae, Barou, Nagi, Ronaldo, Luffy e Dio com rarities, skills, awakenings e métodos de desbloqueio.",
@@ -831,7 +831,7 @@
       "all": "Todos os Characters"
     },
     "styles": {
-      "title": "Blue Lock Skibidi Styles",
+      "title": "Estilos de Blue Lock Skibidi",
       "description": "Cada Blue Lock Skibidi style e awakening com efeitos, gear unlocks e como obter cada style, incluindo Gear 5, Santa Style e Stand User.",
       "metaTitle": "Blue Lock Skibidi Styles - Todos os Awakenings e Como Desbloquear",
       "metaDescription": "Desbloqueie e compare cada Blue Lock Skibidi style, incluindo Gear 5, Santa Style, Stand User e emotes com efeitos e requisitos de gear.",
