@@ -1,4 +1,15 @@
 {
+  "seo": {
+    "home": {
+      "title": "Blue Lock Skibidi Wiki - Códigos, Tier List y Personajes",
+      "description": "Encuentra códigos activos de Blue Lock Skibidi, rankings de personajes, controles, habilidades, consejos para ganar dinero, notas de actualización y guías para principiantes para el juego de fútbol de Roblox.",
+      "keywords": "Blue Lock Skibidi, Roblox, códigos, tier list, personajes, controles, habilidades, actualizaciones",
+      "ogTitle": "Blue Lock Skibidi Wiki - Códigos, Tier List y Personajes",
+      "ogDescription": "Encuentra códigos activos de Blue Lock Skibidi, rankings de personajes, controles, habilidades, consejos para ganar dinero, notas de actualización y guías para principiantes para el juego de fútbol de Roblox.",
+      "twitterTitle": "Blue Lock Skibidi Wiki - Códigos, Tier List y Personajes",
+      "twitterDescription": "Encuentra códigos activos de Blue Lock Skibidi, rankings de personajes, controles, habilidades, consejos para ganar dinero, notas de actualización y guías para principiantes para el juego de fútbol de Roblox."
+    }
+  },
   "nav": {
     "codes": "Códigos",
     "guide": "Guía",
@@ -7,5 +18,877 @@
     "styles": "Estilos",
     "secrets": "Secretos",
     "updates": "Actualizaciones"
+  },
+  "common": {
+    "home": "Inicio",
+    "more": "Más",
+    "playNow": "Jugar en Roblox",
+    "switchLanguage": "Cambiar idioma",
+    "switchTheme": "Cambiar tema",
+    "lightMode": "Modo claro",
+    "darkMode": "Modo oscuro",
+    "notFound": "Página no encontrada",
+    "notFoundDescription": "La página que buscas no existe.",
+    "backToHome": "Volver al inicio",
+    "relatedArticles": "Artículos relacionados",
+    "readMore": "Leer más",
+    "articlesComingSoon": "Artículos próximamente"
+  },
+  "hero": {
+    "badge": "Juego de fútbol anime caótico",
+    "title": "Blue Lock Skibidi Wiki",
+    "description": "Domina personajes de fútbol inspirados en el anime, movimientos poderosos, despertares y partidos caóticos. Encuentra códigos activos, rankings, controles y guías actualizadas.",
+    "getFreeCodesCTA": "Obtener códigos gratis",
+    "playOnRobloxCTA": "Jugar en Roblox",
+    "stats": {
+      "stat1": {
+        "value": "13M+",
+        "label": "Visitas totales"
+      },
+      "stat2": {
+        "value": "13K+",
+        "label": "Favoritos"
+      },
+      "stat3": {
+        "value": "86%",
+        "label": "Tasa de aprobación"
+      },
+      "stat4": {
+        "value": "10",
+        "label": "Tamaño del servidor"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Jugabilidad de Blue Lock Skibidi",
+    "description": "Compete en caóticos partidos de fútbol de Roblox inspirados en el anime, haz tiradas para obtener personajes poderosos, encadena habilidades de personajes y reacciones químicas, y domina las habilidades de tiro, regate, portería y despertar."
+  },
+  "tools": {
+    "title": "Blue Lock Skibidi",
+    "titleHighlight": "Guías",
+    "subtitle": "Todo lo que necesitas para dominar Blue Lock Skibidi: códigos activos, clasificaciones de personajes, controles, habilidades de portero, combos de equipo y las últimas actualizaciones.",
+    "cards": [
+      {
+        "icon": "Regalo",
+        "title": "Códigos",
+        "description": "Códigos activos y expirados de Blue Lock Skibidi, recompensas de dinero y pasos para canjearlos"
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "Guía para principiantes",
+        "description": "Controles básicos de Blue Lock Skibidi, gasto inicial de dinero y primeros partidos"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Lista de niveles",
+        "description": "Clasificación de personajes de Blue Lock Skibidi por goles, movilidad, defensa y valor"
+      },
+      {
+        "icon": "Users",
+        "title": "Personajes",
+        "description": "Todos los personajes de Blue Lock Skibidi, rarezas, roles y cómo obtenerlos y almacenarlos"
+      },
+      {
+        "icon": "Keyboard",
+        "title": "Controles",
+        "description": "Controles de teclado completos para PC de Blue Lock Skibidi para disparar, barrerse, regatear y lanzarse"
+      },
+      {
+        "icon": "Goal",
+        "title": "Guía de portero",
+        "description": "Consejos de posicionamiento, sincronización de estiradas y distribución para los porteros de Blue Lock Skibidi"
+      },
+      {
+        "icon": "FlaskConical",
+        "title": "Combos",
+        "description": "Reacciones químicas de equipo y configuraciones de combos coordinados en Blue Lock Skibidi"
+      },
+      {
+        "icon": "Newspaper",
+        "title": "Actualizaciones",
+        "description": "Últimos parches de Blue Lock Skibidi, nuevos personajes, códigos y cambios de equilibrio"
+      }
+    ]
+  },
+  "modules": {
+    "blueLockSkibidiCodes": {
+      "eyebrow": "Dinero gratis",
+      "title": "Códigos de Blue Lock Skibidi",
+      "subtitle": "Canjea los últimos códigos para obtener dinero gratis utilizado en tiradas de personajes, gestos y animaciones de MVP.",
+      "intro": "Abre el Menú en la parte inferior de la pantalla, selecciona Códigos, ingresa un código exactamente como está escrito y presiona Canjear. Vuelve a unirte al juego cuando un código recién lanzado no funcione, ya que es posible que tu servidor actual esté ejecutando una actualización anterior.",
+      "items": [
+        {
+          "kind": "código",
+          "code": "SHIDOU",
+          "reward": "Dinero",
+          "status": "Activo",
+          "update": "Actualización de Shidou e Ichigo"
+        },
+        {
+          "kind": "código",
+          "code": "DEMON",
+          "reward": "Dinero",
+          "status": "Activo",
+          "update": "Actualización de Shidou e Ichigo"
+        },
+        {
+          "kind": "código",
+          "code": "BANKAI",
+          "reward": "Dinero",
+          "status": "Activo",
+          "update": "Actualización de Shidou e Ichigo"
+        },
+        {
+          "kind": "código",
+          "code": "SorryForBugs",
+          "reward": "Dinero",
+          "status": "Expirado",
+          "update": "Actualización anterior"
+        },
+        {
+          "kind": "código",
+          "code": "3MILVISITS",
+          "reward": "Dinero",
+          "status": "Expirado",
+          "update": "Hito de visitas"
+        },
+        {
+          "kind": "código",
+          "code": "Chigiri",
+          "reward": "Dinero",
+          "status": "Expirado",
+          "update": "Actualización de Chigiri"
+        },
+        {
+          "kind": "código",
+          "code": "SorryForUnfinishedUpd",
+          "reward": "Dinero",
+          "status": "Expirado",
+          "update": "Actualización anterior"
+        }
+      ],
+      "redemption": {
+        "title": "Cómo canjear códigos de Blue Lock Skibidi",
+        "steps": [
+          "Inicia Blue Lock: Skibidi en Roblox.",
+          "Selecciona Menú en la parte inferior de la pantalla.",
+          "Abre el menú de Códigos.",
+          "Pega un código activo en el cuadro de códigos.",
+          "Presiona Canjear para reclamar el Dinero."
+        ]
+      },
+      "troubleshooting": {
+        "title": "Por qué puede fallar un código de Blue Lock Skibidi",
+        "checks": [
+          "El código se ingresó con mayúsculas o espacios incorrectos.",
+          "El código expiró después de una actualización del juego.",
+          "El servidor actual no ha recibido la última actualización.",
+          "El código ya fue canjeado en la misma cuenta."
+        ]
+      },
+      "tips": [
+        "Copia los códigos exactamente, incluyendo las letras mayúsculas, antes de pegarlos en el cuadro de Códigos.",
+        "Únete a un servidor nuevo cuando un código no dé recompensa, ya que los servidores antiguos podrían no tener la actualización aún.",
+        "Gasta el dinero de los códigos en tiradas de personajes antes que en gestos y animaciones de MVP para ampliar tus opciones primero.",
+        "Vuelve a revisar después de cada actualización, porque los nuevos códigos de Blue Lock Skibidi suelen salir junto con nuevos personajes."
+      ]
+    },
+    "blueLockSkibidiBeginnerGuide": {
+      "eyebrow": "Primeros pasos",
+      "title": "Guía para principiantes de Blue Lock Skibidi",
+      "subtitle": "Aprende los controles principales, termina partidos para ganar dinero y construye una colección de personajes útil sin desperdiciar las recompensas iniciales.",
+      "intro": "Blue Lock: Skibidi es un juego de fútbol de Roblox basado en habilidades de personaje, regates, disparos, defensa y recompensas de partido. Aprende los controles básicos antes de depender de movimientos especiales, luego ahorra dinero para tiradas de personajes que mejoren tus estilos de juego disponibles.",
+      "items": [
+        {
+          "step": 1,
+          "title": "Aprende los controles básicos",
+          "description": "Practica el movimiento, las barridas, los regates, pedir el balón y disparar antes de usar las habilidades de los personajes.",
+          "controls": [
+            {
+              "input": "E",
+              "action": "Barrida"
+            },
+            {
+              "input": "Q",
+              "action": "Regatear o lanzarse como portero"
+            },
+            {
+              "input": "R",
+              "action": "Pedir el balón"
+            },
+            {
+              "input": "Clic izquierdo",
+              "action": "Disparar"
+            },
+            {
+              "input": "1–5",
+              "action": "Usar movimientos de personaje"
+            }
+          ]
+        },
+        {
+          "step": 2,
+          "title": "Juega en tu posición",
+          "description": "Mantente adelante al usar un personaje goleador, apoya la posesión con personajes de pase o protege la portería al jugar como portero."
+        },
+        {
+          "step": 3,
+          "title": "Mantén la posesión",
+          "description": "Usa Q para regatear bajo presión en lugar de disparar inmediatamente. Pasa o pide el balón cuando un compañero tenga una ruta más clara hacia la portería."
+        },
+        {
+          "step": 4,
+          "title": "Crea una oportunidad de disparo",
+          "description": "Aléjate de los defensas, apunta a una parte abierta de la portería y usa el clic izquierdo o una habilidad de disparo después de crear espacio."
+        },
+        {
+          "step": 5,
+          "title": "Usa las barridas con cuidado",
+          "description": "Presiona E para desafiar a un oponente que lleva el balón. Evita lanzarte demasiado pronto, porque un desafío fallido deja espacio abierto detrás de ti."
+        },
+        {
+          "step": 6,
+          "title": "Termina el partido",
+          "description": "El dinero del partido se otorga después de que termina el juego, así que quédate hasta la pantalla de resultados en lugar de salirte antes."
+        },
+        {
+          "step": 7,
+          "title": "Gasta el dinero inicial en personajes",
+          "description": "Usa las recompensas de códigos gratuitos y el dinero de los partidos para obtener personajes adicionales. Crea una pequeña colección antes de gastar mucho en gestos o animaciones de MVP."
+        },
+        {
+          "step": 8,
+          "title": "Almacena diferentes roles",
+          "description": "Mantén al menos un goleador, un personaje enfocado en la posesión y una opción defensiva o de portero, para que puedas adaptarte a diferentes equipos."
+        }
+      ]
+    },
+    "blueLockSkibidiCharacterTierList": {
+      "eyebrow": "Clasificación de personajes",
+      "title": "Lista de niveles de personajes de Blue Lock Skibidi",
+      "subtitle": "Compara el plantel principal por capacidad goleadora, movimiento, valor defensivo, calidad de movimientos y facilidad de uso.",
+      "intro": "Los personajes de nivel S proporcionan el mayor impacto general en el partido, mientras que las opciones de nivel A siguen siendo excelentes para la mayoría de los equipos. Los personajes de menor rango aún pueden tener un buen desempeño cuando sus puntos fuertes en pase, portería o facilidad de uso se ajustan al rol del jugador.",
+      "items": [
+        {
+          "tier": "S",
+          "label": "Los mejores en general",
+          "characters": [
+            {
+              "name": "Ronaldo",
+              "role": "Goleador de Élite",
+              "strength": "Combina una definición potente con una fuerte presión ofensiva y un potencial goleador capaz de ganar partidos."
+            },
+            {
+              "name": "Don Lorenzo",
+              "role": "Especialista Defensivo",
+              "strength": "Proporciona un control defensivo de élite al mismo tiempo que crea oportunidades para transicionar al ataque."
+            }
+          ]
+        },
+        {
+          "tier": "A",
+          "label": "Selecciones Fuertes del Meta",
+          "characters": [
+            {
+              "name": "Kaiser",
+              "role": "Delantero de Precisión",
+              "strength": "Un rematador confiable diseñado en torno a oportunidades de tiro peligrosas."
+            },
+            {
+              "name": "Luffy",
+              "role": "Atacante Móvil",
+              "strength": "Utiliza movimientos inusuales y habilidades ofensivas para desestabilizar a los defensores y alcanzar posiciones de tiro."
+            },
+            {
+              "name": "Rin",
+              "role": "Delantero Completo",
+              "strength": "Ofrece una combinación equilibrada de potencia de tiro, control y versatilidad ofensiva."
+            }
+          ]
+        },
+        {
+          "tier": "B",
+          "label": "Especialistas Sólidos",
+          "characters": [
+            {
+              "name": "Sae",
+              "role": "Creador de Juego",
+              "strength": "Se destaca en controlar la posesión y crear oportunidades de gol mediante pases."
+            },
+            {
+              "name": "Reo",
+              "role": "Soporte Flexible",
+              "strength": "Una opción versátil que contribuye mediante el movimiento del balón, el juego de apoyo y habilidades adaptables."
+            }
+          ]
+        },
+        {
+          "tier": "C",
+          "label": "Selecciones Iniciales y Situacionales",
+          "characters": [
+            {
+              "name": "Gagamaru",
+              "role": "Portero",
+              "strength": "Más útil al proteger la portería y usar estiradas de portero en lugar de liderar el ataque."
+            },
+            {
+              "name": "Isagi",
+              "role": "Delantero Inicial",
+              "strength": "Una opción sencilla para principiantes para aprender posicionamiento, tiros y la sincronización de habilidades básicas."
+            }
+          ]
+        }
+      ]
+    },
+    "blueLockSkibidiCharactersAndRarities": {
+      "eyebrow": "Colección de Personajes",
+      "title": "Personajes y Rarezas de Blue Lock Skibidi",
+      "subtitle": "Explora la plantilla estándar, atacantes raros, personajes legendarios, estilos de crossover secretos y las adiciones de las actualizaciones principales.",
+      "intro": "Los personajes se obtienen a través de la Tienda y se pueden equipar desde el Almacenamiento después de desbloquearlos. Cada personaje proporciona un conjunto diferente de movimientos, por lo que es útil tener opciones de anotación, pases, defensa y portería.",
+      "items": [
+        {
+          "name": "Isagi",
+          "rarity": "Común",
+          "role": "Delantero Inicial",
+          "signatureFocus": "Posicionamiento y tiro directo",
+          "bestFor": "Aprendiendo los controles básicos de ataque"
+        },
+        {
+          "name": "Gagamaru",
+          "rarity": "Común",
+          "role": "Portero",
+          "signatureFocus": "Protección de la portería y paradas acrobáticas",
+          "bestFor": "Jugadores que prefieren defender la portería"
+        },
+        {
+          "name": "Reo",
+          "rarity": "Raro",
+          "role": "Apoyo flexible",
+          "signatureFocus": "Control del balón y movimientos de apoyo adaptables",
+          "bestFor": "Conectando defensa, mediocampo y ataque"
+        },
+        {
+          "name": "Sae",
+          "rarity": "Épico",
+          "role": "Creador de juego",
+          "signatureFocus": "Pases precisos y creación de oportunidades",
+          "bestFor": "Habilitando a los compañeros de equipo"
+        },
+        {
+          "name": "Kaiser",
+          "rarity": "Legendario",
+          "role": "Delantero de precisión",
+          "signatureFocus": "Finalización rápida y precisa",
+          "bestFor": "Goleadores dedicados"
+        },
+        {
+          "name": "Rin",
+          "rarity": "Legendario",
+          "role": "Delantero completo",
+          "signatureFocus": "Disparos potentes y control ofensivo",
+          "bestFor": "Jugadores que buscan un atacante equilibrado"
+        },
+        {
+          "name": "Don Lorenzo",
+          "rarity": "Legendario",
+          "role": "Especialista defensivo",
+          "signatureFocus": "Deteniendo atacantes e iniciando contraataques",
+          "bestFor": "Equipos enfocados en la defensa"
+        },
+        {
+          "name": "Ronaldo",
+          "rarity": "Secreto",
+          "role": "Goleador de élite",
+          "signatureFocus": "Disparos y finalización de alto impacto",
+          "bestFor": "Maximizando la presión de gol"
+        },
+        {
+          "name": "Dio",
+          "rarity": "Secreto",
+          "role": "Especialista en crossover",
+          "signatureFocus": "Habilidades especiales disruptivas",
+          "bestFor": "Juego impredecible basado en habilidades"
+        },
+        {
+          "name": "Santa Claus",
+          "rarity": "Secreto",
+          "role": "Personaje de crossover limitado",
+          "signatureFocus": "Movimientos especiales temáticos de eventos",
+          "bestFor": "Coleccionistas y configuraciones de equipo inusuales"
+        },
+        {
+          "name": "Luffy / Gear 5",
+          "rarity": "Secreto",
+          "role": "Atacante móvil",
+          "signatureFocus": "Movimiento inusual y habilidades ofensivas",
+          "bestFor": "Romper líneas defensivas"
+        },
+        {
+          "name": "Aiku",
+          "rarity": "Personaje de actualización",
+          "role": "Defensor",
+          "signatureFocus": "Intercepciones y control defensivo",
+          "bestFor": "Detener a los delanteros rivales"
+        },
+        {
+          "name": "Barou",
+          "rarity": "Personaje de actualización",
+          "role": "Delantero de potencia",
+          "signatureFocus": "King's Chop Shot y definición contundente",
+          "bestFor": "Ataques individuales agresivos"
+        },
+        {
+          "name": "Chigiri",
+          "rarity": "Personaje de actualización",
+          "role": "Atacante veloz",
+          "signatureFocus": "Aceleración y carreras de ataque rápidas",
+          "bestFor": "Superar en velocidad a los defensores"
+        },
+        {
+          "name": "Shidou",
+          "rarity": "Personaje de actualización",
+          "role": "Delantero explosivo",
+          "signatureFocus": "Definición agresiva y ataques de alta presión",
+          "bestFor": "Anotación a corta distancia"
+        },
+        {
+          "name": "Ichigo",
+          "rarity": "Personaje de actualización",
+          "role": "Atacante de crossover",
+          "signatureFocus": "Habilidades ofensivas temáticas de Bankai",
+          "bestFor": "Jugabilidad centrada en movimientos especiales"
+        },
+        {
+          "name": "Giros y almacenamiento de personajes",
+          "rarity": "Sistema",
+          "role": "Gestión de colección",
+          "signatureFocus": "Girar, almacenar y cambiar personajes desbloqueados",
+          "bestFor": "Crear múltiples estilos de juego",
+          "details": [
+            "Abre la Tienda para girar por personajes.",
+            "Un giro de personaje estándar cuesta 250 de Cash.",
+            "Los personajes desbloqueados se pueden seleccionar desde el menú de Almacenamiento.",
+            "Conserva a los personajes fuertes o raros en lugar de reemplazarlos de inmediato.",
+            "El Cash también se puede usar para emotes y animaciones de MVP."
+          ]
+        }
+      ]
+    },
+    "blueLockSkibidiControlsAndSkillsGuide": {
+      "eyebrow": "Guía de Controles",
+      "title": "Guía de Controles y Habilidades de Blue Lock Skibidi",
+      "subtitle": "Aprende todos los controles oficiales de escritorio para disparar, defender, regatear, pedir pases, lanzarse como portero y activar habilidades de personajes.",
+      "intro": "Blue Lock Skibidi usa un conjunto pequeño de controles universales junto con movimientos específicos de cada personaje. La precisión en el tiempo importa más que presionar cada habilidad de inmediato, así que reserva tus movimientos más fuertes para tiros con espacio, intercepciones y situaciones de uno contra uno.",
+      "items": [
+        {
+          "action": "Disparar o Despejar",
+          "desktopKey": "Botón Izquierdo del Ratón",
+          "function": "Patea el balón hacia la dirección a la que apunta tu personaje.",
+          "matchTiming": "Mira hacia el objetivo antes de disparar. Úsalo cerca de la portería para terminar un ataque, o dentro de tu propia área para despejar el balón fuera de peligro."
+        },
+        {
+          "action": "Barrida",
+          "desktopKey": "E",
+          "function": "Realiza una acción defensiva deslizante que puede desafiar al portador actual del balón.",
+          "matchTiming": "Úsalo después de que el oponente se decida por una dirección. Barrerse demasiado pronto le da al atacante tiempo para regatear a tu alrededor."
+        },
+        {
+          "action": "Regate",
+          "desktopKey": "Q",
+          "function": "Realiza la acción de regate estándar cuando juegas como jugador de campo.",
+          "matchTiming": "Actívalo cuando un defensor se acerque, en lugar de usarlo mientras aún tienes varios pasos de espacio libre."
+        },
+        {
+          "action": "Lanzamiento de Portero",
+          "desktopKey": "Q",
+          "function": "Cambia de regate a lanzamiento de portero mientras juegas en la portería.",
+          "matchTiming": "Espera a que el tirador suelte el balón y luego lánzate hacia su trayectoria. Los lanzamientos anticipados dejan abierto el lado opuesto de la portería."
+        },
+        {
+          "action": "Pedir Balón",
+          "desktopKey": "R",
+          "function": "Indica que quieres que un compañero te envíe el balón.",
+          "matchTiming": "Pide el balón después de moverte a un espacio libre. Las peticiones repetidas mientras estás marcado rara vez crean una opción de pase útil."
+        },
+        {
+          "action": "Movimientos de Personaje",
+          "desktopKey": "1, 2, 3, 4 y 5",
+          "function": "Activa las habilidades numeradas disponibles para tu personaje equipado.",
+          "matchTiming": "Verifica si un movimiento requiere posesión, un oponente cercano, un balón en el aire o una línea de tiro despejada antes de activarlo."
+        }
+      ]
+    },
+    "blueLockSkibidiGoalkeeperGuide": {
+      "eyebrow": "Guía de Portero",
+      "title": "Guía de Portero de Blue Lock Skibidi",
+      "subtitle": "Mejora tu posicionamiento, el tiempo de lanzamiento, los despejes y las decisiones contra tiros regulares y habilidades de personajes.",
+      "intro": "Los porteros usan Q para lanzarse y el control de disparo estándar para despejar o distribuir el balón. El enfoque más seguro es permanecer centrado, seguir el balón en lugar de cada movimiento del jugador y evitar comprometerse antes de que el atacante comience el tiro.",
+      "items": [
+        {
+          "step": 1,
+          "title": "Empezar en el Centro",
+          "instruction": "Mantente cerca del centro de la portería y ajústate lateralmente a medida que el balón se mueve. Esto permite llegar a ambas esquinas y evita que los atacantes anoten en un lado desprotegido.",
+          "keyControl": "Controles de movimiento"
+        },
+        {
+          "step": 2,
+          "title": "Sigue el balón",
+          "instruction": "Sigue al portador del balón y el ángulo de la pelota en lugar de perseguir a cada jugador cercano. Muévete hacia el poste cercano cuando el atacante se acerque desde una posición abierta.",
+          "keyControl": "Controles de movimiento"
+        },
+        {
+          "step": 3,
+          "title": "Espera antes de lanzarte",
+          "instruction": "Usa Q solo después de que comience el tiro o la habilidad de disparo. Lanzarse durante una animación de regate permite que el atacante espere y finalice hacia el lado vacío.",
+          "keyControl": "Q — Lanzamiento de portero"
+        },
+        {
+          "step": 4,
+          "title": "Respeta las habilidades de los personajes",
+          "instruction": "Los disparos potentes de los personajes pueden llegar más rápido o desde ángulos inusuales. Mantente centrado el mayor tiempo posible y reacciona al lanzamiento del balón en lugar de a la animación inicial.",
+          "keyControl": "Q — Lanzamiento de portero"
+        },
+        {
+          "step": 5,
+          "title": "Despeja o distribuye",
+          "instruction": "Tras ganar el control, encara a un compañero libre o a un lado desocupado del campo antes de patear. Evita enviar el balón directamente hacia un oponente que espere fuera del área.",
+          "keyControl": "Botón izquierdo del ratón — Patear"
+        },
+        {
+          "step": 6,
+          "title": "Sal de la portería con cuidado",
+          "instruction": "Corre hacia adelante solo cuando puedas alcanzar un balón suelto antes que el atacante. Si el oponente ya controla el balón, protege la portería y fuérzalo a disparar desde un ángulo más cerrado.",
+          "keyControl": "Controles de movimiento"
+        }
+      ]
+    },
+    "blueLockSkibidiChemicalReactionsAndCombos": {
+      "eyebrow": "Combos de equipo",
+      "title": "Reacciones químicas y combos de Blue Lock Skibidi",
+      "subtitle": "Prepara la Reacción Química verificada de Reo y Nagi con los personajes correctos, carril de pase, posicionamiento y sincronización de seguimiento.",
+      "intro": "La Reacción Química de Reo y Nagi es una técnica coordinada añadida junto con la actualización de Barou. Requiere compañeros de equipo distintos que usen a Reo y Nagi, siendo Reo quien inicia la secuencia enviando el balón directamente a Nagi.",
+      "items": [
+        {
+          "name": "Reacción Química de Reo y Nagi",
+          "participants": [
+            "Reo",
+            "Nagi"
+          ],
+          "requirements": [
+            "Reo y Nagi deben ser controlados por jugadores del mismo equipo.",
+            "El jugador de Reo debe tener la posesión del balón.",
+            "El jugador de Nagi debe estar disponible en un carril de recepción despejado."
+          ],
+          "activation": [
+            "Mueve a Nagi al espacio por delante o al lado del jugador de Reo.",
+            "Haz que Reo patee el balón directamente hacia Nagi.",
+            "Completa el seguimiento de la reacción cuando el pase llegue al jugador de Nagi."
+          ],
+          "bestUse": "Usa la reacción cerca del tercio de ataque cuando un pase directo pueda mover el balón más allá del último defensor y crear un remate inmediato.",
+          "positioning": "Reo debe mirar hacia Nagi antes de pasar, mientras que Nagi debe evitar estar directamente detrás de un defensor o demasiado cerca de Reo."
+        },
+        {
+          "name": "Configuración de ataque central",
+          "participants": [
+            "Reo",
+            "Nagi"
+          ],
+          "requirements": [
+            "Nagi se mueve entre los defensores.",
+            "Reo mantiene la posesión hasta que se abra el carril de pase."
+          ],
+          "activation": [
+            "Acércate por el centro sin forzar el primer pase.",
+            "Deja que Nagi se mueva hacia el hueco entre los defensores.",
+            "Envía el pase de Reo y activa la reacción antes de que la defensa cierre el espacio."
+          ],
+          "bestUse": "Efectivo contra equipos que dejan espacio entre sus defensores y el portero.",
+          "positioning": "Mantén a Nagi varios pasos por delante de Reo, para que la reacción avance el ataque en lugar de ocurrir en un área abarrotada del mediocampo."
+        },
+        {
+          "name": "Configuración de banda a centro",
+          "participants": [
+            "Reo",
+            "Nagi"
+          ],
+          "requirements": [
+            "Reo lleva el balón por un lado del campo.",
+            "Nagi se mueve hacia el centro del área penal."
+          ],
+          "activation": [
+            "Atrae a un defensor hacia Reo en la banda.",
+            "Espera a que Nagi entre en el carril central abierto.",
+            "Pasa hacia adentro y completa la reacción antes de que el portero pueda reposicionarse."
+          ],
+          "bestUse": "Útil cuando el medio está abarrotado al inicio del ataque pero se abre después de que los defensores se mueven hacia la banda.",
+          "positioning": "Nagi debe permanecer dentro de la visión frontal de Reo y evitar moverse detrás de la portería o fuera del ángulo de pase."
+        },
+        {
+          "name": "Errores comunes de reacción",
+          "participants": [
+            "Reo",
+            "Nagi"
+          ],
+          "requirements": [
+            "Personajes y alineación de equipo correctos",
+            "Pase directo",
+            "Seguimiento inmediato"
+          ],
+          "activation": [
+            "No intentes la secuencia con dos jugadores usando el mismo personaje.",
+            "No envíes el pase hacia un jugador Nagi marcado.",
+            "No retrases el seguimiento después de que el balón llegue a Nagi."
+          ],
+          "bestUse": "Usa esta lista de verificación antes de intentar la reacción en un partido competitivo.",
+          "positioning": "Un carril de pase bloqueado, una distancia excesiva o que otro compañero intercepte el pase pueden detener la secuencia prevista."
+        }
+      ]
+    },
+    "blueLockSkibidiUpdatesAndNewCharacters": {
+      "eyebrow": "Seguimiento de actualizaciones",
+      "title": "Actualizaciones y nuevos personajes de Blue Lock Skibidi",
+      "subtitle": "Sigue a los personajes más recientes, códigos de actualización, mecánicas de equipo y cambios de equilibrio añadidos a Blue Lock Skibidi.",
+      "intro": "Blue Lock Skibidi expande regularmente su plantilla con personajes de Blue Lock y estilos inspirados en crossovers. Los lanzamientos recientes han incluido a Shidou, Ichigo, Gear 5 Luffy, Barou y la Reacción Química de Reo y Nagi.",
+      "items": [
+        {
+          "date": "5 de julio de 2026",
+          "update": "Actualización de Shidou e Ichigo",
+          "newContent": [
+            "Contenido del personaje Shidou",
+            "Contenido del personaje Ichigo",
+            "Nuevos códigos de recompensa de actualización"
+          ],
+          "gameplayChanges": "El título oficial de la experiencia se actualizó para destacar a Shidou e Ichigo, expandiendo el contenido de personajes disponible más allá de los lanzamientos anteriores de Barou y Gear 5.",
+          "codes": [
+            "SHIDOU",
+            "DEMON",
+            "BANKAI"
+          ]
+        },
+        {
+          "date": "Marzo de 2026",
+          "update": "Actualización de Gear 5 Luffy",
+          "newContent": [
+            "Estilo jugable de Gear 5 Luffy",
+            "Habilidades y animaciones temáticas de Gear 5",
+            "Códigos de recompensa de actualización"
+          ],
+          "gameplayChanges": "El lanzamiento añadió a Gear 5 Luffy a la alineación de personajes. Los cambios de equilibrio relacionados redujeron la fuerza del tiro potente de Barou y evitaron que el tercer movimiento de Barou agarrara habilidades.",
+          "codes": [
+            "GearFifth!",
+            "SORRYFORDELAYPLS"
+          ]
+        },
+        {
+          "date": "Febrero 2026",
+          "update": "Actualización de Barou",
+          "newContent": [
+            "Barou personaje jugable",
+            "Reacción Química de Reo y Nagi",
+            "Códigos de recompensa de la actualización de Barou"
+          ],
+          "gameplayChanges": "Barou se unió a la plantilla como un personaje centrado en el ataque, mientras que Reo y Nagi recibieron una Reacción Química coordinada activada al hacer que Reo patee el balón a un compañero que use a Nagi.",
+          "codes": [
+            "BAROU",
+            "TheKing"
+          ]
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Preguntas",
+    "titleHighlight": "Frecuentes",
+    "subtitle": "Todo lo que necesitas saber sobre Blue Lock Skibidi",
+    "questions": [
+      {
+        "question": "¿Qué es Blue Lock Skibidi?",
+        "answer": "Blue Lock Skibidi es un juego de fútbol de Roblox inspirado en el anime donde los jugadores disparan, se barren, regatean, se lanzan como porteros, piden pases y activan habilidades de personajes en partidos caóticos."
+      },
+      {
+        "question": "¿Dónde puedo jugar Blue Lock Skibidi?",
+        "answer": "Blue Lock Skibidi está disponible en Roblox. Puedes unirte directamente a través de la página oficial del juego en Roblox sin una descarga aparte."
+      },
+      {
+        "question": "¿Cómo canjeo códigos en Blue Lock Skibidi?",
+        "answer": "Abre el Menú en la parte inferior de la pantalla, selecciona Codes, pega un código activo exactamente como está escrito y presiona Redeem para reclamar tu recompensa de Cash."
+      },
+      {
+        "question": "¿Cómo desbloqueo nuevos personajes en Blue Lock Skibidi?",
+        "answer": "Abre la Shop y gasta Cash en tiradas de personajes. Cada tirada estándar cuesta 250 de Cash, y los personajes desbloqueados se pueden equipar desde el menú Storage."
+      },
+      {
+        "question": "¿Cuáles son los controles en Blue Lock Skibidi?",
+        "answer": "Blue Lock Skibidi usa Clic Izquierdo para disparar, E para barrerse, Q para regatear o lanzarse como portero, R para pedir el balón y las teclas numéricas del 1 al 5 para activar los movimientos del personaje."
+      },
+      {
+        "question": "¿Está recibiendo actualizaciones Blue Lock Skibidi?",
+        "answer": "Sí. Blue Lock Skibidi continúa añadiendo personajes y contenido, incluyendo las recientes actualizaciones de Shidou, Ichigo, Gear 5 Luffy y Barou, junto con la Reacción Química de Reo y Nagi."
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para jugar Blue Lock Skibidi?",
+    "description": "Salta a la caótica acción del fútbol anime en Roblox, canjea los últimos códigos y domina cada personaje y habilidad.",
+    "joinCommunity": "Ver Gameplay",
+    "joinGame": "Jugar en Roblox"
+  },
+  "footer": {
+    "title": "Wiki de Blue Lock Skibidi",
+    "description": "Tu centro de recursos completo para códigos de Blue Lock Skibidi, listas de niveles, personajes, controles, habilidades y guías de actualización para el juego de fútbol de Roblox.",
+    "resources": "Recursos",
+    "community": "Comunidad",
+    "legal": "Legal",
+    "roblox": "Jugar en Roblox",
+    "developer": "Perfil del desarrollador",
+    "youtube": "Ver Gameplay",
+    "about": "Acerca de",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Blue Lock Skibidi Wiki. No afiliado con los desarrolladores de Blue Lock: Skibidi.",
+    "disclaimer": "Sitio web de recursos no oficial creado por fans."
+  },
+  "pages": {
+    "codes": {
+      "title": "Códigos de Blue Lock Skibidi",
+      "description": "Códigos de Blue Lock Skibidi activos y expirados, recompensas de Cash y pasos exactos para canjearlos.",
+      "metaTitle": "Códigos de Blue Lock Skibidi - Códigos activos y recompensas",
+      "metaDescription": "Encuentra códigos activos de Blue Lock Skibidi, recompensas de Cash e instrucciones de canje paso a paso para el juego de fútbol de Roblox.",
+      "categoryLabel": "CÓDIGOS",
+      "whatIs": "¿Qué son los códigos de Blue Lock Skibidi?",
+      "whatIsDescription": "Los códigos de Blue Lock Skibidi son cadenas de recompensas gratuitas lanzadas junto con actualizaciones e hitos. Canjéalos por Cash que puedes gastar en giros de personajes, emotes y animaciones de MVP.",
+      "why": "¿Por qué usar códigos?",
+      "whySteps": {
+        "step1Title": "Cash gratis",
+        "step1Description": "Canjea códigos para reclamar Cash sin tener que farmear partidos adicionales",
+        "step2Title": "Más giros",
+        "step2Description": "Usa el Cash de los códigos para girar por una lista más amplia de personajes",
+        "step3Title": "Mantente al día",
+        "step3Description": "Se lanzan nuevos códigos con cada actualización de Blue Lock Skibidi"
+      },
+      "featured": "Códigos activos",
+      "all": "Todos los códigos"
+    },
+    "guide": {
+      "title": "Guía de Blue Lock Skibidi",
+      "description": "Guías completas de Blue Lock Skibidi que cubren los conceptos básicos para principiantes, controles, paradas de portero, tiros con efecto, farmeo de Cash y tácticas avanzadas de partido.",
+      "metaTitle": "Guía de Blue Lock Skibidi - Consejos para principiantes, controles y farmeo",
+      "metaDescription": "Domina Blue Lock Skibidi con guías completas sobre el flujo para principiantes, controles, paradas de portero, tiros con efecto y de suerte, farmeo de Cash y desafíos obby.",
+      "categoryLabel": "GUÍAS",
+      "whatIs": "¿Qué es la guía de Blue Lock Skibidi?",
+      "whatIsDescription": "El centro de guías de Blue Lock Skibidi reúne todos los tutoriales de juego en un solo lugar, desde tu primer partido y la navegación por los menús hasta tiros avanzados, posicionamiento del portero y rutas de farmeo de Cash.",
+      "why": "¿Por qué leer las guías?",
+      "whySteps": {
+        "step1Title": "Empieza fuerte",
+        "step1Description": "Aprende el flujo del menú, emparejamiento, tienda y giros de personajes antes de tu primer partido",
+        "step2Title": "Domina los controles",
+        "step2Description": "Asegura tus tiros, barridas, regates, pases y paradas de portero con la referencia completa de asignación de teclas",
+        "step3Title": "Farmea más rápido",
+        "step3Description": "Sigue rutas optimizadas de farmeo de Cash y obby para conseguir más personajes y estilos"
+      },
+      "featured": "Guías destacadas",
+      "all": "Todas las guías"
+    },
+    "rankings": {
+      "title": "Clasificaciones de Blue Lock Skibidi",
+      "description": "Tier lists y clasificaciones de Blue Lock Skibidi que comparan los mejores personajes y estilos para tiro, pase, defensa y juego de portero.",
+      "metaTitle": "Tier List de Blue Lock Skibidi - Mejores personajes y estilos",
+      "metaDescription": "Compara los mejores personajes y estilos de Blue Lock Skibidi en nuestra tier list, clasificados por rendimiento en tiros, pases, defensa y portería.",
+      "categoryLabel": "RANKINGS",
+      "whatIs": "¿Qué son los rankings de Blue Lock Skibidi?",
+      "whatIsDescription": "Los rankings comparan a cada personaje jugable y estilo según su fuerza general y adecuación al rol, para que sepas por quién girar y qué despertar buscar para cada posición.",
+      "why": "¿Por qué consultar los rankings?",
+      "whySteps": {
+        "step1Title": "Gira de forma más inteligente",
+        "step1Description": "Gasta dinero en personajes de primer nivel que dominen los partidos en lugar de giros aleatorios",
+        "step2Title": "Adáptate a tu rol",
+        "step2Description": "Combina cada personaje y estilo con la posición correcta — delantero, pasador, defensor o portero",
+        "step3Title": "Mantente al día",
+        "step3Description": "Los rankings cambian con cada nuevo personaje y ajuste de equilibrio, así que vuelve a consultar después de cada actualización"
+      },
+      "featured": "Mejores en el ranking",
+      "all": "Todos los rankings"
+    },
+    "characters": {
+      "title": "Personajes de Blue Lock Skibidi",
+      "description": "Lista completa de personajes de Blue Lock Skibidi con sus rarezas, habilidades, despertares y cómo desbloquear a cada uno, desde Rin y Sae hasta Luffy y Dio.",
+      "metaTitle": "Personajes de Blue Lock Skibidi - Lista, habilidades y guía de desbloqueo",
+      "metaDescription": "Explora todos los personajes de Blue Lock Skibidi, incluidos Rin, Sae, Barou, Nagi, Ronaldo, Luffy y Dio, con sus rarezas, habilidades, despertares y métodos de desbloqueo.",
+      "categoryLabel": "PERSONAJES",
+      "whatIs": "¿Qué son los personajes de Blue Lock Skibidi?",
+      "whatIsDescription": "La lista de personajes incluye a todos los héroes jugables y luchadores de crossover de Blue Lock Skibidi, su rareza, habilidades distintivas, movimientos de despertar y los requisitos de desbloqueo o giro para cada uno.",
+      "why": "¿Por qué estudiar a los personajes?",
+      "whySteps": {
+        "step1Title": "Conoce tu plantilla",
+        "step1Description": "Mira la rareza, habilidades y despertar de cada personaje antes de gastar tus giros",
+        "step2Title": "Planifica tus desbloqueos",
+        "step2Description": "Aprende exactamente cómo conseguir a cada personaje, desde desbloqueos secretos hasta objetivos de giros",
+        "step3Title": "Encuentra estrellas de crossover",
+        "step3Description": "Sigue la pista de personajes de crossover de anime como Luffy Gear 5 y Dio, y descubre qué los hace fuertes"
+      },
+      "featured": "Personajes destacados",
+      "all": "Todos los personajes"
+    },
+    "styles": {
+      "title": "Estilos de Blue Lock Skibidi",
+      "description": "Todos los estilos y despertares de Blue Lock Skibidi con sus efectos, desbloqueos de equipamiento y cómo obtener cada estilo, incluidos Gear 5, Santa Style y Stand User.",
+      "metaTitle": "Estilos de Blue Lock Skibidi - Todos los despertares y cómo desbloquearlos",
+      "metaDescription": "Desbloquea y compara todos los estilos de Blue Lock Skibidi, incluidos Gear 5, Santa Style, Stand User y gestos con sus efectos y requisitos de equipamiento.",
+      "categoryLabel": "ESTILOS",
+      "whatIs": "¿Qué son los estilos de Blue Lock Skibidi?",
+      "whatIsDescription": "Los estilos son conjuntos de poderes y despertares equipables que cambian la forma de jugar de un personaje, añadiendo tiros, animaciones y movimientos especiales únicos a su conjunto básico.",
+      "why": "¿Por qué coleccionar estilos?",
+      "whySteps": {
+        "step1Title": "Desbloquea poder",
+        "step1Description": "Los despertares y estilos añaden tiros y movimientos revolucionarios que cambian el rumbo de cada partido",
+        "step2Title": "Personaliza tus equipamientos",
+        "step2Description": "Combina estilos con el personaje adecuado para crear a tu delantero, pasador o portero ideal",
+        "step3Title": "Consigue los Sets más Raros",
+        "step3Description": "Caza estilos secretos y limitados como Gear 5 y Santa Style antes de que roten"
+      },
+      "featured": "Estilos Destacados",
+      "all": "Todos los Estilos"
+    },
+    "secrets": {
+      "title": "Secretos de Blue Lock Skibidi",
+      "description": "Todos los secretos de Blue Lock Skibidi descubiertos: personajes secretos, estilos ocultos, rutas de obby secretas y cómo desbloquear luchadores de crossover como Luffy.",
+      "metaTitle": "Secretos de Blue Lock Skibidi - Personajes Ocultos, Estilos y Obby",
+      "metaDescription": "Encuentra cada secreto de Blue Lock Skibidi, incluyendo personajes ocultos, estilos secretos, rutas de obby secretas y cómo desbloquear luchadores de crossover como Luffy.",
+      "categoryLabel": "SECRETOS",
+      "whatIs": "¿Qué son los Secretos de Blue Lock Skibidi?",
+      "whatIsDescription": "Los secretos cubren contenido oculto que la mayoría de los jugadores pierden: personajes de crossover desbloqueables, estilos secretos, rutas de obby ocultas y los pasos exactos para llegar a cada uno.",
+      "why": "¿Por qué cazar secretos?",
+      "whySteps": {
+        "step1Title": "Desbloquea Luchadores Ocultos",
+        "step1Description": "Consigue personajes de crossover como Luffy que la mayoría de los jugadores nunca alcanzan",
+        "step2Title": "Encuentra Estilos Secretos",
+        "step2Description": "Descubre estilos ocultos y awakenings escondidos tras condiciones específicas",
+        "step3Title": "Supera el Obby Secreto",
+        "step3Description": "Completa las rutas del obby secreto para obtener recompensas exclusivas y el derecho a presumir"
+      },
+      "featured": "Secretos Destacados",
+      "all": "Todos los Secretos"
+    },
+    "updates": {
+      "title": "Actualizaciones de Blue Lock Skibidi",
+      "description": "Registro completo de actualizaciones de Blue Lock Skibidi con fechas de parches, nuevos personajes como Shidou y Dio, rediseños de habilidades, cambios de equilibrio y códigos nuevos por actualización.",
+      "metaTitle": "Actualizaciones de Blue Lock Skibidi - Notas del Parche, Nuevos Personajes y Códigos",
+      "metaDescription": "Sigue cada actualización de Blue Lock Skibidi, incluyendo nuevos personajes como Shidou y Dio, rediseños de habilidades, cambios de equilibrio y los nuevos códigos que aparecen con cada parche.",
+      "categoryLabel": "ACTUALIZACIONES",
+      "whatIs": "¿Qué son las Actualizaciones de Blue Lock Skibidi?",
+      "whatIsDescription": "Las actualizaciones registran cada parche: nuevos personajes, rediseños de habilidades, ajustes de equilibrio y los códigos nuevos que se lanzan con cada versión, para que siempre sepas qué cambió.",
+      "why": "¿Por qué seguir las actualizaciones?",
+      "whySteps": {
+        "step1Title": "Consigue Nuevos Personajes",
+        "step1Description": "Mira a los nuevos luchadores como Shidou y Dio en el momento en que salen y cómo cambian el meta",
+        "step2Title": "Consigue Códigos Nuevos",
+        "step2Description": "Cada actualización trae nuevos códigos para obtener dinero y recompensas gratis; canjéalos antes de que expiren",
+        "step3Title": "Adáptate al Equilibrio",
+        "step3Description": "Los rediseños de habilidades y los ajustes cambian la fuerza de los personajes, así que ajusta tus giros y tu estilo de juego en consecuencia"
+      },
+      "featured": "Últimas Actualizaciones",
+      "all": "Todas las Actualizaciones"
+    }
   }
 }

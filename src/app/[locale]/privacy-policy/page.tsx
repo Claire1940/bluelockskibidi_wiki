@@ -151,7 +151,7 @@ export default function PrivacyPolicy() {
             <ul>
               <li><strong>Google Analytics:</strong> Web analytics service</li>
               <li><strong>Microsoft Clarity:</strong> Behavioral analytics service</li>
-              <li><strong>Netlify:</strong> Hosting and CDN provider</li>
+              <li><strong>Cloudflare:</strong> Hosting and CDN provider</li>
             </ul>
 
             <h2>5. Children's Privacy</h2>
