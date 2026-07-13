@@ -10,7 +10,15 @@
       "twitterDescription": "Find working Blue Lock Skibidi codes, character rankings, controls, skills, cash tips, update notes, and beginner guides for the Roblox soccer game."
     }
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "rankings": "Rankings",
+    "characters": "Characters",
+    "styles": "Styles",
+    "secrets": "Secrets",
+    "updates": "Updates"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -725,144 +733,124 @@
       "featured": "Working Codes",
       "all": "All Codes"
     },
-    "beginner-guide": {
-      "title": "Blue Lock Skibidi Beginner Guide",
-      "description": "Learn the core controls, positions and early Cash spending for your first Blue Lock Skibidi matches.",
-      "metaTitle": "Blue Lock Skibidi Beginner Guide - Start Playing",
-      "metaDescription": "A complete Blue Lock Skibidi beginner guide covering controls, positioning, Cash spending and first-match tips for the Roblox soccer game.",
-      "categoryLabel": "BEGINNER GUIDE",
-      "whatIs": "What is the Blue Lock Skibidi Beginner Guide?",
-      "whatIsDescription": "The beginner guide covers the controls, match flow and early rewards that help new players learn Blue Lock Skibidi and build a useful character collection.",
-      "why": "Why read the beginner guide?",
+    "guide": {
+      "title": "Blue Lock Skibidi Guide",
+      "description": "Complete Blue Lock Skibidi guides covering beginner basics, controls, goalkeeper saves, curve shots, Cash farming and advanced match tactics.",
+      "metaTitle": "Blue Lock Skibidi Guide - Beginner Tips, Controls & Farming",
+      "metaDescription": "Master Blue Lock Skibidi with full guides on beginner flow, controls, goalkeeper saves, curve and luck shots, Cash farming and obby challenges.",
+      "categoryLabel": "GUIDES",
+      "whatIs": "What is the Blue Lock Skibidi Guide?",
+      "whatIsDescription": "The Blue Lock Skibidi guide hub collects every gameplay walkthrough in one place, from your first match and menu navigation to advanced shooting, goalkeeper positioning and Cash farming routes.",
+      "why": "Why read the guides?",
       "whySteps": {
-        "step1Title": "Learn Controls",
-        "step1Description": "Master shooting, sliding, dribbling and passing before using abilities",
-        "step2Title": "Play Your Role",
-        "step2Description": "Understand positions and possession to avoid common first-match mistakes",
-        "step3Title": "Spend Cash Smartly",
-        "step3Description": "Prioritize character rolls before cosmetics and emotes"
+        "step1Title": "Start Strong",
+        "step1Description": "Learn the menu, matching, shop and character rolling flow before your first match",
+        "step2Title": "Master Controls",
+        "step2Description": "Lock in shooting, sliding, dribbling, passing and goalkeeper saves with the full keybind reference",
+        "step3Title": "Farm Faster",
+        "step3Description": "Follow optimized Cash farming and obby routes to roll more characters and styles"
       },
-      "featured": "Featured Guide",
-      "all": "All Beginner Guides"
+      "featured": "Featured Guides",
+      "all": "All Guides"
     },
-    "character-tier-list": {
-      "title": "Blue Lock Skibidi Character Tier List",
-      "description": "Rank every Blue Lock Skibidi character by scoring, mobility, defense, move quality and ease of use.",
-      "metaTitle": "Blue Lock Skibidi Tier List - Best Characters Ranked",
-      "metaDescription": "Compare the best Blue Lock Skibidi characters in a full tier list ranked by scoring, mobility, defense, move quality and ease of use.",
-      "categoryLabel": "TIER LIST",
-      "whatIs": "What is the Blue Lock Skibidi Tier List?",
-      "whatIsDescription": "The tier list ranks available characters by their overall match impact, helping you pick the strongest options for scoring, defense and support.",
-      "why": "Why use the tier list?",
+    "rankings": {
+      "title": "Blue Lock Skibidi Rankings",
+      "description": "Blue Lock Skibidi tier lists and rankings comparing the best characters and styles for shooting, passing, defense and goalkeeper play.",
+      "metaTitle": "Blue Lock Skibidi Tier List - Best Characters & Styles",
+      "metaDescription": "Compare the best Blue Lock Skibidi characters and styles in our tier list, ranked by shooting, passing, defense and goalkeeper performance.",
+      "categoryLabel": "RANKINGS",
+      "whatIs": "What are Blue Lock Skibidi Rankings?",
+      "whatIsDescription": "Rankings compare every playable character and style by overall strength and role fit, so you know who to roll and which awakening to chase for each position.",
+      "why": "Why check the rankings?",
       "whySteps": {
-        "step1Title": "Pick Strong Characters",
-        "step1Description": "Focus Cash rolls on S-tier and A-tier characters first",
-        "step2Title": "Match Your Role",
-        "step2Description": "Choose characters that fit your preferred position",
-        "step3Title": "Track the Meta",
-        "step3Description": "Update picks whenever balance changes or new characters release"
+        "step1Title": "Roll Smarter",
+        "step1Description": "Spend Cash on top-tier characters that dominate matches instead of random rolls",
+        "step2Title": "Fit Your Role",
+        "step2Description": "Match each character and style to the right position — striker, passer, defender or goalkeeper",
+        "step3Title": "Stay Current",
+        "step3Description": "Rankings shift with every new character and balance change, so check back after each update"
       },
-      "featured": "Top-Tier Picks",
-      "all": "Full Tier List"
+      "featured": "Top Ranked",
+      "all": "All Rankings"
     },
-    "characters-and-rarities": {
-      "title": "Blue Lock Skibidi Characters and Rarities",
-      "description": "Browse every Blue Lock Skibidi character, rarity, role and how to roll, store and switch them.",
-      "metaTitle": "Blue Lock Skibidi Characters - Rarities, Roles & Rolls",
-      "metaDescription": "Explore all Blue Lock Skibidi characters, their rarities, roles, signature moves and how to roll, store and switch them in the Roblox soccer game.",
+    "characters": {
+      "title": "Blue Lock Skibidi Characters",
+      "description": "Full roster of Blue Lock Skibidi characters with rarities, skills, awakenings and how to unlock each one, from Rin and Sae to Luffy and Dio.",
+      "metaTitle": "Blue Lock Skibidi Characters - Roster, Skills & Unlock Guide",
+      "metaDescription": "Browse every Blue Lock Skibidi character including Rin, Sae, Barou, Nagi, Ronaldo, Luffy and Dio with rarities, skills, awakenings and unlock methods.",
       "categoryLabel": "CHARACTERS",
-      "whatIs": "What are Blue Lock Skibidi Characters and Rarities?",
-      "whatIsDescription": "Characters are unlocked through the Shop and equipped from Storage. Rarities range from Common to Legendary and Secret, with update characters added over time.",
-      "why": "Why study characters and rarities?",
+      "whatIs": "What are Blue Lock Skibidi Characters?",
+      "whatIsDescription": "The character roster lists every playable Blue Lock Skibidi hero and crossover fighter, their rarity, signature skills, awakening moves and the unlock or roll requirements for each.",
+      "why": "Why study the characters?",
       "whySteps": {
-        "step1Title": "Know the Roster",
-        "step1Description": "Understand each character's role and signature moves",
-        "step2Title": "Roll Efficiently",
-        "step2Description": "Spend Cash wisely on characters that fit your team",
-        "step3Title": "Manage Storage",
-        "step3Description": "Keep strong and rare characters instead of overwriting them"
+        "step1Title": "Know Your Roster",
+        "step1Description": "See every character's rarity, skills and awakening before spending rolls",
+        "step2Title": "Plan Unlocks",
+        "step2Description": "Learn exactly how to get each character, from secret unlocks to roll targets",
+        "step3Title": "Find Crossover Stars",
+        "step3Description": "Track anime crossover characters like Gear 5 Luffy and Dio and what makes them strong"
       },
       "featured": "Featured Characters",
       "all": "All Characters"
     },
-    "controls-and-skills-guide": {
-      "title": "Blue Lock Skibidi Controls and Skills Guide",
-      "description": "Every official Blue Lock Skibidi desktop control for shooting, defending, dribbling and diving.",
-      "metaTitle": "Blue Lock Skibidi Controls - Full Keybind Guide",
-      "metaDescription": "Master every Blue Lock Skibidi control including shooting, sliding, dribbling, requesting passes, goalkeeper diving and character moves.",
-      "categoryLabel": "CONTROLS",
-      "whatIs": "What are the Blue Lock Skibidi Controls?",
-      "whatIsDescription": "Blue Lock Skibidi uses a compact set of universal controls plus character-specific moves bound to the number keys 1 through 5.",
-      "why": "Why learn the controls?",
+    "styles": {
+      "title": "Blue Lock Skibidi Styles",
+      "description": "Every Blue Lock Skibidi style and awakening with effects, gear unlocks and how to get each style, including Gear 5, Santa Style and Stand User.",
+      "metaTitle": "Blue Lock Skibidi Styles - All Awakenings & How to Unlock",
+      "metaDescription": "Unlock and compare every Blue Lock Skibidi style including Gear 5, Santa Style, Stand User and emotes with effects and gear requirements.",
+      "categoryLabel": "STYLES",
+      "whatIs": "What are Blue Lock Skibidi Styles?",
+      "whatIsDescription": "Styles are equippable power sets and awakenings that change how a character plays, adding unique shots, animations and special moves on top of the base kit.",
+      "why": "Why collect styles?",
       "whySteps": {
-        "step1Title": "React Faster",
-        "step1Description": "Memorize keybinds so shooting, sliding and diving become instant",
-        "step2Title": "Time Your Moves",
-        "step2Description": "Good timing beats pressing every ability at once",
-        "step3Title": "Use Abilities Smartly",
-        "step3Description": "Save character moves for open shots and interceptions"
+        "step1Title": "Unlock Power",
+        "step1Description": "Awakenings and styles add game-changing shots and moves that shift every match",
+        "step2Title": "Customize Loadouts",
+        "step2Description": "Mix styles with the right character to build your ideal striker, passer or goalkeeper",
+        "step3Title": "Chase Rarest Sets",
+        "step3Description": "Hunt secret and limited styles like Gear 5 and Santa Style before they rotate out"
       },
-      "featured": "Core Keybinds",
-      "all": "All Controls"
+      "featured": "Featured Styles",
+      "all": "All Styles"
     },
-    "goalkeeper-guide": {
-      "title": "Blue Lock Skibidi Goalkeeper Guide",
-      "description": "Positioning, dive timing, clearances and decisions for Blue Lock Skibidi goalkeepers.",
-      "metaTitle": "Blue Lock Skibidi Goalkeeper Guide - Diving & Positioning",
-      "metaDescription": "Improve your Blue Lock Skibidi goalkeeping with positioning, dive timing, ball distribution and how to defend against character abilities.",
-      "categoryLabel": "GOALKEEPER",
-      "whatIs": "What is the Blue Lock Skibidi Goalkeeper Guide?",
-      "whatIsDescription": "The goalkeeper guide explains how to stay centered, time dives, distribute the ball and avoid the mistakes that lead to easy scores in Blue Lock Skibidi.",
-      "why": "Why read the goalkeeper guide?",
+    "secrets": {
+      "title": "Blue Lock Skibidi Secrets",
+      "description": "Every Blue Lock Skibidi secret uncovered — secret characters, hidden styles, secret obby routes and how to unlock crossover fighters like Luffy.",
+      "metaTitle": "Blue Lock Skibidi Secrets - Hidden Characters, Styles & Obby",
+      "metaDescription": "Find every Blue Lock Skibidi secret including hidden characters, secret styles, secret obby routes and how to unlock crossover fighters like Luffy.",
+      "categoryLabel": "SECRETS",
+      "whatIs": "What are Blue Lock Skibidi Secrets?",
+      "whatIsDescription": "Secrets cover hidden content most players miss — unlockable crossover characters, secret styles, hidden obby routes and the exact steps to reach each one.",
+      "why": "Why hunt secrets?",
       "whySteps": {
-        "step1Title": "Stay Centered",
-        "step1Description": "Cover both corners by following the ball, not the players",
-        "step2Title": "Time Dives",
-        "step2Description": "Dive only after the shot or shooting ability begins",
-        "step3Title": "Distribute Safely",
-        "step3Description": "Clear the ball away from opponents waiting outside the box"
+        "step1Title": "Unlock Hidden Fighters",
+        "step1Description": "Get crossover characters like Luffy that most players never reach",
+        "step2Title": "Find Secret Styles",
+        "step2Description": "Discover hidden styles and awakenings tucked away behind specific conditions",
+        "step3Title": "Beat Secret Obby",
+        "step3Description": "Clear the secret obby routes for exclusive rewards and bragging rights"
       },
-      "featured": "Featured Tips",
-      "all": "All Goalkeeper Tips"
+      "featured": "Featured Secrets",
+      "all": "All Secrets"
     },
-    "chemical-reactions-and-combos": {
-      "title": "Blue Lock Skibidi Chemical Reactions and Combos",
-      "description": "Team chemical reactions and coordinated combo setups for Blue Lock Skibidi.",
-      "metaTitle": "Blue Lock Skibidi Chemical Reactions & Combos Guide",
-      "metaDescription": "Learn Blue Lock Skibidi chemical reactions and team combos, including the verified Reo and Nagi setup, positioning and activation timing.",
-      "categoryLabel": "COMBOS",
-      "whatIs": "What are Blue Lock Skibidi Chemical Reactions and Combos?",
-      "whatIsDescription": "Chemical reactions are coordinated multi-character techniques that trigger when the right players pass and follow up together in Blue Lock Skibidi.",
-      "why": "Why learn combos?",
-      "whySteps": {
-        "step1Title": "Unlock Team Plays",
-        "step1Description": "Trigger reactions only possible with coordinated teammates",
-        "step2Title": "Beat Defenses",
-        "step2Description": "Use combos to move the ball beyond the final defender",
-        "step3Title": "Coordinate Timing",
-        "step3Description": "Master activation windows for high-pressure situations"
-      },
-      "featured": "Featured Combos",
-      "all": "All Combos"
-    },
-    "updates-and-new-characters": {
-      "title": "Blue Lock Skibidi Updates and New Characters",
-      "description": "Latest Blue Lock Skibidi patches, new characters, codes and balance changes.",
-      "metaTitle": "Blue Lock Skibidi Updates - New Characters & Patch Notes",
-      "metaDescription": "Follow the latest Blue Lock Skibidi updates including new characters, balance changes, event content and fresh reward codes.",
+    "updates": {
+      "title": "Blue Lock Skibidi Updates",
+      "description": "Full Blue Lock Skibidi update log with patch dates, new characters like Shidou and Dio, skill reworks, balance changes and fresh codes per update.",
+      "metaTitle": "Blue Lock Skibidi Updates - Patch Notes, New Characters & Codes",
+      "metaDescription": "Track every Blue Lock Skibidi update including new characters like Shidou and Dio, skill reworks, balance changes and the new codes that drop with each patch.",
       "categoryLabel": "UPDATES",
       "whatIs": "What are Blue Lock Skibidi Updates?",
-      "whatIsDescription": "Updates add new characters, abilities, team mechanics and codes to Blue Lock Skibidi, along with balance changes that shift the meta over time.",
+      "whatIsDescription": "Updates log every patch — new characters, skill reworks, balance tuning and the fresh codes that release alongside each version — so you always know what changed.",
       "why": "Why follow updates?",
       "whySteps": {
-        "step1Title": "New Characters",
-        "step1Description": "Roll for freshly added Blue Lock and crossover characters",
-        "step2Title": "New Codes",
-        "step2Description": "Grab update reward codes before they expire",
-        "step3Title": "Meta Shifts",
-        "step3Description": "Adjust your picks whenever balance changes land"
+        "step1Title": "Catch New Characters",
+        "step1Description": "See new fighters like Shidou and Dio the moment they drop and how they change the meta",
+        "step2Title": "Grab Fresh Codes",
+        "step2Description": "Each update ships new codes for free Cash and rewards — claim them before they expire",
+        "step3Title": "Adapt to Balance",
+        "step3Description": "Skill reworks and tuning shift character strength, so adjust your rolls and playstyle accordingly"
       },
-      "featured": "Latest Update",
+      "featured": "Latest Updates",
       "all": "All Updates"
     }
   }

@@ -1,1 +1,494 @@
-{}
+{
+  "en": {
+    "characters": [
+      {
+        "slug": "blue-lock-skibidi-barou",
+        "file": "blue-lock-skibidi-barou"
+      },
+      {
+        "slug": "blue-lock-skibidi-characters",
+        "file": "blue-lock-skibidi-characters"
+      },
+      {
+        "slug": "blue-lock-skibidi-dio",
+        "file": "blue-lock-skibidi-dio"
+      },
+      {
+        "slug": "blue-lock-skibidi-luffy",
+        "file": "blue-lock-skibidi-luffy"
+      },
+      {
+        "slug": "blue-lock-skibidi-nagi",
+        "file": "blue-lock-skibidi-nagi"
+      },
+      {
+        "slug": "blue-lock-skibidi-reo",
+        "file": "blue-lock-skibidi-reo"
+      },
+      {
+        "slug": "blue-lock-skibidi-rin",
+        "file": "blue-lock-skibidi-rin"
+      },
+      {
+        "slug": "blue-lock-skibidi-ronaldo",
+        "file": "blue-lock-skibidi-ronaldo"
+      },
+      {
+        "slug": "blue-lock-skibidi-sae",
+        "file": "blue-lock-skibidi-sae"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "blue-lock-skibidi-codes",
+        "file": "blue-lock-skibidi-codes"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "blue-lock-skibidi-badges",
+        "file": "blue-lock-skibidi-badges"
+      },
+      {
+        "slug": "blue-lock-skibidi-beginner-guide",
+        "file": "blue-lock-skibidi-beginner-guide"
+      },
+      {
+        "slug": "blue-lock-skibidi-chemical-reaction",
+        "file": "blue-lock-skibidi-chemical-reaction"
+      },
+      {
+        "slug": "blue-lock-skibidi-controls",
+        "file": "blue-lock-skibidi-controls"
+      },
+      {
+        "slug": "blue-lock-skibidi-curve-shot",
+        "file": "blue-lock-skibidi-curve-shot"
+      },
+      {
+        "slug": "blue-lock-skibidi-goalkeeper-guide",
+        "file": "blue-lock-skibidi-goalkeeper-guide"
+      },
+      {
+        "slug": "blue-lock-skibidi-gun",
+        "file": "blue-lock-skibidi-gun"
+      },
+      {
+        "slug": "blue-lock-skibidi-luck-shot",
+        "file": "blue-lock-skibidi-luck-shot"
+      },
+      {
+        "slug": "blue-lock-skibidi-money-farming",
+        "file": "blue-lock-skibidi-money-farming"
+      },
+      {
+        "slug": "blue-lock-skibidi-obby",
+        "file": "blue-lock-skibidi-obby"
+      },
+      {
+        "slug": "blue-lock-skibidi-titles",
+        "file": "blue-lock-skibidi-titles"
+      }
+    ],
+    "rankings": [
+      {
+        "slug": "blue-lock-skibidi-best-character",
+        "file": "blue-lock-skibidi-best-character"
+      },
+      {
+        "slug": "blue-lock-skibidi-best-style",
+        "file": "blue-lock-skibidi-best-style"
+      },
+      {
+        "slug": "blue-lock-skibidi-tier-list",
+        "file": "blue-lock-skibidi-tier-list"
+      }
+    ],
+    "secrets": [
+      {
+        "slug": "blue-lock-skibidi-how-to-get-luffy",
+        "file": "blue-lock-skibidi-how-to-get-luffy"
+      },
+      {
+        "slug": "blue-lock-skibidi-secret-characters",
+        "file": "blue-lock-skibidi-secret-characters"
+      },
+      {
+        "slug": "blue-lock-skibidi-secret-obby",
+        "file": "blue-lock-skibidi-secret-obby"
+      },
+      {
+        "slug": "blue-lock-skibidi-secret-style",
+        "file": "blue-lock-skibidi-secret-style"
+      }
+    ],
+    "styles": [
+      {
+        "slug": "blue-lock-skibidi-emotes",
+        "file": "blue-lock-skibidi-emotes"
+      },
+      {
+        "slug": "blue-lock-skibidi-gear-5",
+        "file": "blue-lock-skibidi-gear-5"
+      },
+      {
+        "slug": "blue-lock-skibidi-santa-style",
+        "file": "blue-lock-skibidi-santa-style"
+      },
+      {
+        "slug": "blue-lock-skibidi-stand-user",
+        "file": "blue-lock-skibidi-stand-user"
+      },
+      {
+        "slug": "blue-lock-skibidi-styles",
+        "file": "blue-lock-skibidi-styles"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "blue-lock-skibidi-dio-update",
+        "file": "blue-lock-skibidi-dio-update"
+      },
+      {
+        "slug": "blue-lock-skibidi-gear-5-update",
+        "file": "blue-lock-skibidi-gear-5-update"
+      },
+      {
+        "slug": "blue-lock-skibidi-shidou-update",
+        "file": "blue-lock-skibidi-shidou-update"
+      },
+      {
+        "slug": "blue-lock-skibidi-update",
+        "file": "blue-lock-skibidi-update"
+      }
+    ]
+  },
+  "es": {
+    "characters": [
+      {
+        "slug": "blue-lock-skibidi-barou",
+        "file": "blue-lock-skibidi-barou"
+      },
+      {
+        "slug": "blue-lock-skibidi-characters",
+        "file": "blue-lock-skibidi-characters"
+      },
+      {
+        "slug": "blue-lock-skibidi-dio",
+        "file": "blue-lock-skibidi-dio"
+      },
+      {
+        "slug": "blue-lock-skibidi-luffy",
+        "file": "blue-lock-skibidi-luffy"
+      },
+      {
+        "slug": "blue-lock-skibidi-nagi",
+        "file": "blue-lock-skibidi-nagi"
+      },
+      {
+        "slug": "blue-lock-skibidi-reo",
+        "file": "blue-lock-skibidi-reo"
+      },
+      {
+        "slug": "blue-lock-skibidi-rin",
+        "file": "blue-lock-skibidi-rin"
+      },
+      {
+        "slug": "blue-lock-skibidi-ronaldo",
+        "file": "blue-lock-skibidi-ronaldo"
+      },
+      {
+        "slug": "blue-lock-skibidi-sae",
+        "file": "blue-lock-skibidi-sae"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "blue-lock-skibidi-codes",
+        "file": "blue-lock-skibidi-codes"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "blue-lock-skibidi-badges",
+        "file": "blue-lock-skibidi-badges"
+      },
+      {
+        "slug": "blue-lock-skibidi-beginner-guide",
+        "file": "blue-lock-skibidi-beginner-guide"
+      },
+      {
+        "slug": "blue-lock-skibidi-chemical-reaction",
+        "file": "blue-lock-skibidi-chemical-reaction"
+      },
+      {
+        "slug": "blue-lock-skibidi-controls",
+        "file": "blue-lock-skibidi-controls"
+      },
+      {
+        "slug": "blue-lock-skibidi-curve-shot",
+        "file": "blue-lock-skibidi-curve-shot"
+      },
+      {
+        "slug": "blue-lock-skibidi-goalkeeper-guide",
+        "file": "blue-lock-skibidi-goalkeeper-guide"
+      },
+      {
+        "slug": "blue-lock-skibidi-gun",
+        "file": "blue-lock-skibidi-gun"
+      },
+      {
+        "slug": "blue-lock-skibidi-luck-shot",
+        "file": "blue-lock-skibidi-luck-shot"
+      },
+      {
+        "slug": "blue-lock-skibidi-money-farming",
+        "file": "blue-lock-skibidi-money-farming"
+      },
+      {
+        "slug": "blue-lock-skibidi-obby",
+        "file": "blue-lock-skibidi-obby"
+      },
+      {
+        "slug": "blue-lock-skibidi-titles",
+        "file": "blue-lock-skibidi-titles"
+      }
+    ],
+    "rankings": [
+      {
+        "slug": "blue-lock-skibidi-best-character",
+        "file": "blue-lock-skibidi-best-character"
+      },
+      {
+        "slug": "blue-lock-skibidi-best-style",
+        "file": "blue-lock-skibidi-best-style"
+      },
+      {
+        "slug": "blue-lock-skibidi-tier-list",
+        "file": "blue-lock-skibidi-tier-list"
+      }
+    ],
+    "secrets": [
+      {
+        "slug": "blue-lock-skibidi-how-to-get-luffy",
+        "file": "blue-lock-skibidi-how-to-get-luffy"
+      },
+      {
+        "slug": "blue-lock-skibidi-secret-characters",
+        "file": "blue-lock-skibidi-secret-characters"
+      },
+      {
+        "slug": "blue-lock-skibidi-secret-obby",
+        "file": "blue-lock-skibidi-secret-obby"
+      },
+      {
+        "slug": "blue-lock-skibidi-secret-style",
+        "file": "blue-lock-skibidi-secret-style"
+      }
+    ],
+    "styles": [
+      {
+        "slug": "blue-lock-skibidi-emotes",
+        "file": "blue-lock-skibidi-emotes"
+      },
+      {
+        "slug": "blue-lock-skibidi-gear-5",
+        "file": "blue-lock-skibidi-gear-5"
+      },
+      {
+        "slug": "blue-lock-skibidi-santa-style",
+        "file": "blue-lock-skibidi-santa-style"
+      },
+      {
+        "slug": "blue-lock-skibidi-stand-user",
+        "file": "blue-lock-skibidi-stand-user"
+      },
+      {
+        "slug": "blue-lock-skibidi-styles",
+        "file": "blue-lock-skibidi-styles"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "blue-lock-skibidi-dio-update",
+        "file": "blue-lock-skibidi-dio-update"
+      },
+      {
+        "slug": "blue-lock-skibidi-gear-5-update",
+        "file": "blue-lock-skibidi-gear-5-update"
+      },
+      {
+        "slug": "blue-lock-skibidi-shidou-update",
+        "file": "blue-lock-skibidi-shidou-update"
+      },
+      {
+        "slug": "blue-lock-skibidi-update",
+        "file": "blue-lock-skibidi-update"
+      }
+    ]
+  },
+  "pt": {
+    "characters": [
+      {
+        "slug": "blue-lock-skibidi-barou",
+        "file": "blue-lock-skibidi-barou"
+      },
+      {
+        "slug": "blue-lock-skibidi-characters",
+        "file": "blue-lock-skibidi-characters"
+      },
+      {
+        "slug": "blue-lock-skibidi-dio",
+        "file": "blue-lock-skibidi-dio"
+      },
+      {
+        "slug": "blue-lock-skibidi-luffy",
+        "file": "blue-lock-skibidi-luffy"
+      },
+      {
+        "slug": "blue-lock-skibidi-nagi",
+        "file": "blue-lock-skibidi-nagi"
+      },
+      {
+        "slug": "blue-lock-skibidi-reo",
+        "file": "blue-lock-skibidi-reo"
+      },
+      {
+        "slug": "blue-lock-skibidi-rin",
+        "file": "blue-lock-skibidi-rin"
+      },
+      {
+        "slug": "blue-lock-skibidi-ronaldo",
+        "file": "blue-lock-skibidi-ronaldo"
+      },
+      {
+        "slug": "blue-lock-skibidi-sae",
+        "file": "blue-lock-skibidi-sae"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "blue-lock-skibidi-codes",
+        "file": "blue-lock-skibidi-codes"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "blue-lock-skibidi-badges",
+        "file": "blue-lock-skibidi-badges"
+      },
+      {
+        "slug": "blue-lock-skibidi-beginner-guide",
+        "file": "blue-lock-skibidi-beginner-guide"
+      },
+      {
+        "slug": "blue-lock-skibidi-chemical-reaction",
+        "file": "blue-lock-skibidi-chemical-reaction"
+      },
+      {
+        "slug": "blue-lock-skibidi-controls",
+        "file": "blue-lock-skibidi-controls"
+      },
+      {
+        "slug": "blue-lock-skibidi-curve-shot",
+        "file": "blue-lock-skibidi-curve-shot"
+      },
+      {
+        "slug": "blue-lock-skibidi-goalkeeper-guide",
+        "file": "blue-lock-skibidi-goalkeeper-guide"
+      },
+      {
+        "slug": "blue-lock-skibidi-gun",
+        "file": "blue-lock-skibidi-gun"
+      },
+      {
+        "slug": "blue-lock-skibidi-luck-shot",
+        "file": "blue-lock-skibidi-luck-shot"
+      },
+      {
+        "slug": "blue-lock-skibidi-money-farming",
+        "file": "blue-lock-skibidi-money-farming"
+      },
+      {
+        "slug": "blue-lock-skibidi-obby",
+        "file": "blue-lock-skibidi-obby"
+      },
+      {
+        "slug": "blue-lock-skibidi-titles",
+        "file": "blue-lock-skibidi-titles"
+      }
+    ],
+    "rankings": [
+      {
+        "slug": "blue-lock-skibidi-best-character",
+        "file": "blue-lock-skibidi-best-character"
+      },
+      {
+        "slug": "blue-lock-skibidi-best-style",
+        "file": "blue-lock-skibidi-best-style"
+      },
+      {
+        "slug": "blue-lock-skibidi-tier-list",
+        "file": "blue-lock-skibidi-tier-list"
+      }
+    ],
+    "secrets": [
+      {
+        "slug": "blue-lock-skibidi-how-to-get-luffy",
+        "file": "blue-lock-skibidi-how-to-get-luffy"
+      },
+      {
+        "slug": "blue-lock-skibidi-secret-characters",
+        "file": "blue-lock-skibidi-secret-characters"
+      },
+      {
+        "slug": "blue-lock-skibidi-secret-obby",
+        "file": "blue-lock-skibidi-secret-obby"
+      },
+      {
+        "slug": "blue-lock-skibidi-secret-style",
+        "file": "blue-lock-skibidi-secret-style"
+      }
+    ],
+    "styles": [
+      {
+        "slug": "blue-lock-skibidi-emotes",
+        "file": "blue-lock-skibidi-emotes"
+      },
+      {
+        "slug": "blue-lock-skibidi-gear-5",
+        "file": "blue-lock-skibidi-gear-5"
+      },
+      {
+        "slug": "blue-lock-skibidi-santa-style",
+        "file": "blue-lock-skibidi-santa-style"
+      },
+      {
+        "slug": "blue-lock-skibidi-stand-user",
+        "file": "blue-lock-skibidi-stand-user"
+      },
+      {
+        "slug": "blue-lock-skibidi-styles",
+        "file": "blue-lock-skibidi-styles"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "blue-lock-skibidi-dio-update",
+        "file": "blue-lock-skibidi-dio-update"
+      },
+      {
+        "slug": "blue-lock-skibidi-gear-5-update",
+        "file": "blue-lock-skibidi-gear-5-update"
+      },
+      {
+        "slug": "blue-lock-skibidi-shidou-update",
+        "file": "blue-lock-skibidi-shidou-update"
+      },
+      {
+        "slug": "blue-lock-skibidi-update",
+        "file": "blue-lock-skibidi-update"
+      }
+    ]
+  }
+}

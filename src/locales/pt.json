@@ -1,1 +1,11 @@
-{}
+{
+  "nav": {
+    "codes": "Códigos",
+    "guide": "Guia",
+    "rankings": "Rankings",
+    "characters": "Personagens",
+    "styles": "Estilos",
+    "secrets": "Segredos",
+    "updates": "Atualizações"
+  }
+}
