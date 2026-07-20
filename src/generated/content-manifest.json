@@ -2,12 +2,24 @@
   "en": {
     "characters": [
       {
+        "slug": "blue-lock-skibidi-aiku",
+        "file": "blue-lock-skibidi-aiku"
+      },
+      {
+        "slug": "blue-lock-skibidi-all-characters",
+        "file": "blue-lock-skibidi-all-characters"
+      },
+      {
         "slug": "blue-lock-skibidi-barou",
         "file": "blue-lock-skibidi-barou"
       },
       {
         "slug": "blue-lock-skibidi-characters",
         "file": "blue-lock-skibidi-characters"
+      },
+      {
+        "slug": "blue-lock-skibidi-chigiri",
+        "file": "blue-lock-skibidi-chigiri"
       },
       {
         "slug": "blue-lock-skibidi-dio",
@@ -36,12 +48,30 @@
       {
         "slug": "blue-lock-skibidi-sae",
         "file": "blue-lock-skibidi-sae"
+      },
+      {
+        "slug": "blue-lock-skibidi-shidou",
+        "file": "blue-lock-skibidi-shidou"
       }
     ],
     "codes": [
       {
         "slug": "blue-lock-skibidi-codes",
         "file": "blue-lock-skibidi-codes"
+      }
+    ],
+    "community": [
+      {
+        "slug": "blue-lock-skibidi-discord",
+        "file": "blue-lock-skibidi-discord"
+      },
+      {
+        "slug": "blue-lock-skibidi-reddit",
+        "file": "blue-lock-skibidi-reddit"
+      },
+      {
+        "slug": "blue-lock-skibidi-trello",
+        "file": "blue-lock-skibidi-trello"
       }
     ],
     "guide": [
@@ -66,6 +96,10 @@
         "file": "blue-lock-skibidi-curve-shot"
       },
       {
+        "slug": "blue-lock-skibidi-discord",
+        "file": "blue-lock-skibidi-discord"
+      },
+      {
         "slug": "blue-lock-skibidi-goalkeeper-guide",
         "file": "blue-lock-skibidi-goalkeeper-guide"
       },
@@ -86,8 +120,16 @@
         "file": "blue-lock-skibidi-obby"
       },
       {
+        "slug": "blue-lock-skibidi-reddit",
+        "file": "blue-lock-skibidi-reddit"
+      },
+      {
         "slug": "blue-lock-skibidi-titles",
         "file": "blue-lock-skibidi-titles"
+      },
+      {
+        "slug": "blue-lock-skibidi-trello",
+        "file": "blue-lock-skibidi-trello"
       }
     ],
     "rankings": [
@@ -106,6 +148,10 @@
     ],
     "secrets": [
       {
+        "slug": "blue-lock-skibidi-all-secrets",
+        "file": "blue-lock-skibidi-all-secrets"
+      },
+      {
         "slug": "blue-lock-skibidi-how-to-get-luffy",
         "file": "blue-lock-skibidi-how-to-get-luffy"
       },
@@ -123,6 +169,10 @@
       }
     ],
     "styles": [
+      {
+        "slug": "blue-lock-skibidi-all-styles",
+        "file": "blue-lock-skibidi-all-styles"
+      },
       {
         "slug": "blue-lock-skibidi-emotes",
         "file": "blue-lock-skibidi-emotes"
@@ -166,12 +216,24 @@
   "es": {
     "characters": [
       {
+        "slug": "blue-lock-skibidi-aiku",
+        "file": "blue-lock-skibidi-aiku"
+      },
+      {
+        "slug": "blue-lock-skibidi-all-characters",
+        "file": "blue-lock-skibidi-all-characters"
+      },
+      {
         "slug": "blue-lock-skibidi-barou",
         "file": "blue-lock-skibidi-barou"
       },
       {
         "slug": "blue-lock-skibidi-characters",
         "file": "blue-lock-skibidi-characters"
+      },
+      {
+        "slug": "blue-lock-skibidi-chigiri",
+        "file": "blue-lock-skibidi-chigiri"
       },
       {
         "slug": "blue-lock-skibidi-dio",
@@ -200,12 +262,30 @@
       {
         "slug": "blue-lock-skibidi-sae",
         "file": "blue-lock-skibidi-sae"
+      },
+      {
+        "slug": "blue-lock-skibidi-shidou",
+        "file": "blue-lock-skibidi-shidou"
       }
     ],
     "codes": [
       {
         "slug": "blue-lock-skibidi-codes",
         "file": "blue-lock-skibidi-codes"
+      }
+    ],
+    "community": [
+      {
+        "slug": "blue-lock-skibidi-discord",
+        "file": "blue-lock-skibidi-discord"
+      },
+      {
+        "slug": "blue-lock-skibidi-reddit",
+        "file": "blue-lock-skibidi-reddit"
+      },
+      {
+        "slug": "blue-lock-skibidi-trello",
+        "file": "blue-lock-skibidi-trello"
       }
     ],
     "guide": [
@@ -230,6 +310,10 @@
         "file": "blue-lock-skibidi-curve-shot"
       },
       {
+        "slug": "blue-lock-skibidi-discord",
+        "file": "blue-lock-skibidi-discord"
+      },
+      {
         "slug": "blue-lock-skibidi-goalkeeper-guide",
         "file": "blue-lock-skibidi-goalkeeper-guide"
       },
@@ -250,8 +334,16 @@
         "file": "blue-lock-skibidi-obby"
       },
       {
+        "slug": "blue-lock-skibidi-reddit",
+        "file": "blue-lock-skibidi-reddit"
+      },
+      {
         "slug": "blue-lock-skibidi-titles",
         "file": "blue-lock-skibidi-titles"
+      },
+      {
+        "slug": "blue-lock-skibidi-trello",
+        "file": "blue-lock-skibidi-trello"
       }
     ],
     "rankings": [
@@ -270,6 +362,10 @@
     ],
     "secrets": [
       {
+        "slug": "blue-lock-skibidi-all-secrets",
+        "file": "blue-lock-skibidi-all-secrets"
+      },
+      {
         "slug": "blue-lock-skibidi-how-to-get-luffy",
         "file": "blue-lock-skibidi-how-to-get-luffy"
       },
@@ -287,6 +383,10 @@
       }
     ],
     "styles": [
+      {
+        "slug": "blue-lock-skibidi-all-styles",
+        "file": "blue-lock-skibidi-all-styles"
+      },
       {
         "slug": "blue-lock-skibidi-emotes",
         "file": "blue-lock-skibidi-emotes"
@@ -330,12 +430,24 @@
   "pt": {
     "characters": [
       {
+        "slug": "blue-lock-skibidi-aiku",
+        "file": "blue-lock-skibidi-aiku"
+      },
+      {
+        "slug": "blue-lock-skibidi-all-characters",
+        "file": "blue-lock-skibidi-all-characters"
+      },
+      {
         "slug": "blue-lock-skibidi-barou",
         "file": "blue-lock-skibidi-barou"
       },
       {
         "slug": "blue-lock-skibidi-characters",
         "file": "blue-lock-skibidi-characters"
+      },
+      {
+        "slug": "blue-lock-skibidi-chigiri",
+        "file": "blue-lock-skibidi-chigiri"
       },
       {
         "slug": "blue-lock-skibidi-dio",
@@ -364,12 +476,30 @@
       {
         "slug": "blue-lock-skibidi-sae",
         "file": "blue-lock-skibidi-sae"
+      },
+      {
+        "slug": "blue-lock-skibidi-shidou",
+        "file": "blue-lock-skibidi-shidou"
       }
     ],
     "codes": [
       {
         "slug": "blue-lock-skibidi-codes",
         "file": "blue-lock-skibidi-codes"
+      }
+    ],
+    "community": [
+      {
+        "slug": "blue-lock-skibidi-discord",
+        "file": "blue-lock-skibidi-discord"
+      },
+      {
+        "slug": "blue-lock-skibidi-reddit",
+        "file": "blue-lock-skibidi-reddit"
+      },
+      {
+        "slug": "blue-lock-skibidi-trello",
+        "file": "blue-lock-skibidi-trello"
       }
     ],
     "guide": [
@@ -394,6 +524,10 @@
         "file": "blue-lock-skibidi-curve-shot"
       },
       {
+        "slug": "blue-lock-skibidi-discord",
+        "file": "blue-lock-skibidi-discord"
+      },
+      {
         "slug": "blue-lock-skibidi-goalkeeper-guide",
         "file": "blue-lock-skibidi-goalkeeper-guide"
       },
@@ -414,8 +548,16 @@
         "file": "blue-lock-skibidi-obby"
       },
       {
+        "slug": "blue-lock-skibidi-reddit",
+        "file": "blue-lock-skibidi-reddit"
+      },
+      {
         "slug": "blue-lock-skibidi-titles",
         "file": "blue-lock-skibidi-titles"
+      },
+      {
+        "slug": "blue-lock-skibidi-trello",
+        "file": "blue-lock-skibidi-trello"
       }
     ],
     "rankings": [
@@ -434,6 +576,10 @@
     ],
     "secrets": [
       {
+        "slug": "blue-lock-skibidi-all-secrets",
+        "file": "blue-lock-skibidi-all-secrets"
+      },
+      {
         "slug": "blue-lock-skibidi-how-to-get-luffy",
         "file": "blue-lock-skibidi-how-to-get-luffy"
       },
@@ -451,6 +597,10 @@
       }
     ],
     "styles": [
+      {
+        "slug": "blue-lock-skibidi-all-styles",
+        "file": "blue-lock-skibidi-all-styles"
+      },
       {
         "slug": "blue-lock-skibidi-emotes",
         "file": "blue-lock-skibidi-emotes"
